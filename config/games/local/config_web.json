@@ -1,0 +1,78 @@
+{
+  "version": "1.0",
+  "update": 0,
+  "urlUpdate": "http://public.vnbaivip.com/update/web/1.0",
+  "messageUpdate": "web",
+  "isTcp": "false",
+  "status_game": 0,
+  "call_common": 0,
+  "recharge": 1,
+  "cashout": 1,
+  "payment_fb": 1,
+  "minigame": {
+    "status": 0,
+    "ip": "192.168.1.109",
+    "port": 643,
+    "host": "192.168.1.109"
+  },
+  "bacay": {
+    "status": 0,
+    "ip": "192.168.1.109",
+    "port": 244,
+    "host": "192.168.1.109"
+  },
+  "baicao": {
+    "status": 0,
+    "ip": "192.168.1.109",
+    "port": 344,
+    "host": "192.168.1.109"
+  },
+  "binh": {
+    "status": 0,
+    "ip": "192.168.1.109",
+    "port": 444,
+    "host": "192.168.1.109"
+  },
+  "lieng": {
+    "status": 0,
+    "ip": "192.168.1.109",
+    "port": 544,
+    "host": "192.168.1.109"
+  },
+  "poker": {
+    "status": 0,
+    "ip": "192.168.1.109",
+    "port": 744,
+    "host": "192.168.1.109"
+  },
+  "sam": {
+    "status": 0,
+    "ip": "192.168.1.109",
+    "port": 844,
+    "host": "192.168.1.109"
+  },
+  "slot": {
+    "status": 0,
+    "ip": "192.168.1.109",
+    "port": 944,
+    "host": "192.168.1.109"
+  },
+  "tienlen": {
+    "status": 0,
+    "ip": "192.168.1.109",
+    "port": 1044,
+    "host": "192.168.1.109"
+  },
+  "blackjack": {
+    "status": 0,
+    "ip": "192.168.1.109",
+    "port": 1144,
+    "host": "192.168.1.109"
+  },
+  "xocdia": {
+    "status": 0,
+    "ip": "192.168.1.109",
+    "port": 1244,
+    "host": "192.168.1.109"
+  }
+}
