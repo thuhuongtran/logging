@@ -1,16 +1,18 @@
 package com.misa.core.pools;
 
+import java.io.IOException;
+import java.util.Arrays;
+
+import org.bson.Document;
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
+
+import com.mongodb.DB;
 import com.mongodb.MongoClient;
 import com.mongodb.MongoCredential;
 import com.mongodb.ServerAddress;
 import com.mongodb.client.MongoCollection;
 import com.mongodb.client.MongoDatabase;
-import org.bson.Document;
-import org.slf4j.Logger;
-import org.slf4j.LoggerFactory;
-
-import java.io.IOException;
-import java.util.Arrays;
 
 public class MongoPool {
     private static Logger logger = LoggerFactory.getLogger(MongoPool.class.getName());
@@ -31,6 +33,14 @@ public class MongoPool {
             MongoPool.newConnection();
         }
         return mongoClient.getDatabase(MongoConfig.MONGODB_DATABASE);
+    }
+    public static DB getJongoDb() {
+    	if (mongoClient == null) {
+            MongoPool.newConnection();
+        }
+    	DB db = mongoClient.getDB(MongoConfig.MONGODB_DATABASE);
+    	return db; 
+    			
     }
     public static void log(String collectionName, Document doc){
         MongoDatabase db = MongoPool.getDB();

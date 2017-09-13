@@ -7,10 +7,10 @@ import java.util.Properties;
 
 public class MongoConfig {
     private static final String MONGO_CONFIG_FILE = "config/mongodb.properties";
-    public static String MONGODB_HOST = "";
-    public static String MONGODB_DATABASE = "";
-    public static String MONGODB_USERNAME = "";
-    public static String MONGODB_PASSWORD = "";
+    public static String MONGODB_HOST = "171.244.27.229";
+    public static String MONGODB_DATABASE = "misa";
+    public static String MONGODB_USERNAME = "misa";
+    public static String MONGODB_PASSWORD = "Vp@abc123";
     public static int MONGODB_PORT = 0;
 
     public static void init() throws IOException {

@@ -1,2 +1,2 @@
-08 Sep 2017, 12:07:09,706 Log to StudenIntership : { "_id" : { "$oid" : "59b2257d52628d29c8ac09c2" }, "name" : "Thu Huong", "school" : "HUST" }
-08 Sep 2017, 12:08:33,240 Log to StudenIntership : { "_id" : { "$oid" : "59b225d052628d0b643c8329" }, "name" : "Thu Huong", "school" : "HUST" }
+13 Sep 2017, 20:32:22,760 Log to StudenIntership : { "_id" : { "$oid" : "59b933653f012f111ca19a7b" } }
+13 Sep 2017, 20:33:29,047 Log to StudenIntership : { "_id" : { "$oid" : "59b933a83f012f1764893b74" } }

@@ -1,3 +1,4 @@
+package com.misa.logging.test;
 import com.misa.core.pools.MongoPool;
 import org.apache.log4j.PropertyConfigurator;
 import org.bson.Document;
@@ -10,8 +11,10 @@ public class MongoConnectionTest {
             PropertyConfigurator.configure("config/log4j.properties");
             MongoPool.init();
             Document doc = new Document();
+            /*
             doc.append("name", "Thu Huong");
             doc.append("school", "HUST");
+            */
             MongoPool.log("StudenIntership", doc);
         }catch (Exception e){
             e.printStackTrace();
@@ -31,5 +34,9 @@ public class MongoConnectionTest {
         end.set(Calendar.SECOND, 59);
 
 
+    }
+    
+    public static void testMongoDB() {
+    	
     }
 }
