@@ -4,8 +4,8 @@ import org.bson.types.ObjectId;
 
 public class User {
 	private ObjectId _id;
-	private String username;
-	private String nickname;
+	private String userName;
+	private String nickName;
 	private String userAgent;
 	private String ip;
 	private Integer updateTime;
@@ -19,17 +19,18 @@ public class User {
 	public void set_id(ObjectId _id) {
 		this._id = _id;
 	}
-	public String getUsername() {
-		return username;
+	
+	public String getUserName() {
+		return userName;
 	}
-	public void setUsername(String username) {
-		this.username = username;
+	public void setUserName(String userName) {
+		this.userName = userName;
 	}
-	public String getNickname() {
-		return nickname;
+	public String getNickName() {
+		return nickName;
 	}
-	public void setNickname(String nickname) {
-		this.nickname = nickname;
+	public void setNickName(String nickName) {
+		this.nickName = nickName;
 	}
 	public String getUserAgent() {
 		return userAgent;

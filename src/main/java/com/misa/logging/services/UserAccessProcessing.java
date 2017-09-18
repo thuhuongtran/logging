@@ -7,6 +7,7 @@ import java.util.Calendar;
 import java.util.List;
 
 import org.apache.log4j.PropertyConfigurator;
+import org.bson.Document;
 import org.jongo.Jongo;
 import org.jongo.MongoCollection;
 
@@ -14,20 +15,9 @@ import com.misa.core.pools.MongoPool;
 import com.misa.logging.entity.User;
 import com.misa.logging.entity.UserAccess;
 
-public class GetUserAccessByDate {
+public class UserAccessProcessing {
 	static List<User> users;
-	// create useraccess
-	/*
-	 * private static UserAccess newUserAccess(ResultsIterator<UserAccess> cursor) {
-	 * UserAccess user = new UserAccess();
-	 * 
-	 * user.setUsername(cursor.iterator().next().getUsername());
-	 * user.setId(cursor.iterator().next().getId());
-	 * 
-	 * return user;
-	 * 
-	 * }
-	 */
+	
 	// return login user info
 	public static void getUser() throws IOException {
 		// connect to database
@@ -46,22 +36,47 @@ public class GetUserAccessByDate {
 		}
 		
 	}
-
+	// sort user list by nickname
+	public static void sortUserList(String compareName, String nickName) {
+		if(nickName.contains(compareName)) {
+			System.out.println("true");
+		}
+	}
+	// divide user list by date
+	public static void divideByDate() {
+		int i = 1;
+		while(i <users.size()) {
+			// if date of login user is as same as the date of user before
+			String befDate = DateConvertion.timestampToDate(users.get(i-1).get_id().getTimestamp());
+			System.out.println(befDate);
+			String nexDate = DateConvertion.timestampToDate(users.get(i).get_id().getTimestamp());
+			System.out.println(nexDate);
+			if(befDate.equals(nexDate)) {
+				/*
+				System.out.println();
+				System.out.print("username: "+users.get(i).getUserName());
+				System.out.print("\tnickname: "+users.get(i).getNickName());
+				System.out.print("\tLogin Date :"+nexDate);
+				System.out.print("\t timestamp: "+users.get(i).get_id().getTimestamp());
+				*/
+				// write data in a date in one document
+				Document doc = new Document();
+				doc.append("nickName", users.get(i).);
+			}
+			else {
+				System.out.println("out");
+				break;
+			}
+				
+			i++;
+		}
+	}
 	// testing getUserAccess
 	public static void main(String[] args) throws IOException, ParseException {
 		// record users
 		getUser();
-		int i=1;
-		//System.out.print(users);
-		for(User user : users) {
-			System.out.print("\t "+i++);
-			System.out.print("username: "+user.getUsername());
-			System.out.print("\tnickname: "+user.getNickname());
-			System.out.print("\tLogin Date :"+DateConvertion.timestampToDate(user.get_id().getTimestamp()));
-			System.out.print("\t timestamp: "+user.get_id().getTimestamp());
-			System.out.println();
-		}		
-		
+		//divideByDate();
+		sortUserList("thacdu", "thacdu991");
 	}
 	public static void countUserByDate(List<User> userLi) {
 		for(int i=0;i<userLi.size();i++) {
