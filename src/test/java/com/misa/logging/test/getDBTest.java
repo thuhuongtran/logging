@@ -22,6 +22,18 @@ public class getDBTest {
 	 * get the number amount of login persons in exact time per day
 	 * limit timestamp
 	 * 
+<<<<<<< HEAD
+	 * get login access users by input date --> then sort by username --> count number of access
+	 * write to document
+	 * 
+	 * 
+	 * plan B: get all user list then process in model
+	 * chia list user thanh cac list nho boi date 
+	 * then count user 
+	 * maybe get all users
+	 * write to document
+	 * start from 31-8
+	 * 
 	 */
 	static List<User> loginUsers;
 
