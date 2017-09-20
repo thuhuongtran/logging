@@ -3,7 +3,6 @@ package com.misa.logging.services;
 import java.io.IOException;
 import java.text.ParseException;
 import java.util.ArrayList;
-import java.util.Calendar;
 import java.util.Comparator;
 import java.util.List;
 
@@ -17,20 +16,42 @@ import com.misa.logging.entity.User;
 import com.misa.logging.entity.UserAccess;
 
 public class UserAccessProcessing {
-	static List<User> users;
-	static List<User> tructxnLi;
-	static List<User> thinhnkLi;
-	static List<User> thacduLi;
-	static List<User> testvnbaiLi;
+	public static List<User> users;
+	public static List<User> tructxnLi;
+	public static List<User> thinhnkLi;
+	public static List<User> thacduLi;
+	public static List<User> testvnbaiLi;
 	
-	static List<UserAccess> tructxnAccessLi;
-	static List<UserAccess> thinhnkAccessLi;
-	static List<UserAccess> thacduAccessLi;
-	static List<UserAccess> testvnbaiAccessLi;
+	public static List<UserAccess> tructxnAccessLi;
+	public static List<UserAccess> thinhnkAccessLi;
+	public static List<UserAccess> thacduAccessLi;
+	public static List<UserAccess> testvnbaiAccessLi;
 	
+	public static List<UserAccess> userAccLi;
+	
+	
+	public UserAccessProcessing() {
+		super();
+		
+		users = new ArrayList<User>();
+		
+		tructxnLi = new ArrayList<User>();
+		thinhnkLi = new ArrayList<User>();
+		thacduLi = new ArrayList<User>();
+		testvnbaiLi = new ArrayList<User>();
+		
+		tructxnAccessLi = new ArrayList<UserAccess>();
+		thinhnkAccessLi = new ArrayList<UserAccess>();
+		thacduAccessLi = new ArrayList<UserAccess>();
+		testvnbaiAccessLi = new ArrayList<UserAccess>();
+		
+		userAccLi = new ArrayList<UserAccess>();
+		
+	}
 	// return login user info
 	public static void getUser() throws IOException {
 		// connect to database
+		
 		PropertyConfigurator.configure("config/log4j.properties");
 		MongoPool.init();
 
@@ -40,7 +61,7 @@ public class UserAccessProcessing {
 		
 		//org.jongo.MongoCursor<User> userLi = collection.find("{}").as(User.class);
 		org.jongo.MongoCursor<User> li = collection.find("{}").sort("{nickName:1}").as(User.class);
-		users = new ArrayList<User>();
+		//users = new ArrayList<User>();
 	
 		while (li.hasNext()) {
 			users.add(li.next());
@@ -49,10 +70,12 @@ public class UserAccessProcessing {
 	}
 	//divide total userlist in each list of user
 	public static void divideUserList(List<User> userli) {
+		/*
 		tructxnLi = new ArrayList<User>();
 		thinhnkLi = new ArrayList<User>();
 		thacduLi = new ArrayList<User>();
 		testvnbaiLi = new ArrayList<User>();
+		*/
 		
 		//if nickname contains name then add to list, otherwise turn to other list
 		for(User user : userli) {
@@ -69,6 +92,16 @@ public class UserAccessProcessing {
 				tructxnLi.add(user);
 			}
 		}
+	}
+	// sort list of userAcc by date
+	public static void sortUsrAccByDate(List<UserAccess> userAccLi) {
+		userAccLi.sort(new Comparator<UserAccess>() {
+
+			public int compare(UserAccess o1, UserAccess o2) {
+				return o1.getLoginDate().compareTo(o2.getLoginDate());
+			}
+			
+		});
 	}
 	// count number of login times by date
 	// firstly, sort list by date
@@ -99,46 +132,111 @@ public class UserAccessProcessing {
 				userAccessLi.add(userAcc);
 				// update
 				userAcc = new UserAccess();
-				count =1;
+				count =0;
 				date = DateConvertion.timestampToDate(user.get_id().getTimestamp());
+			}
+			else if(user.equals(userli.get(userli.size()-1))) {
+				// add to list
+				userAcc.setNickName(user.getNickName().replaceAll("[0-9]", ""));
+				userAcc.setCount(count+1);
+				userAcc.setLoginDate(date);
+				userAccessLi.add(userAcc);
 			}
 			count++;
 		}
 	}
+	// count login times of each user
+	// add all in a list
+	public static void setUserAccessLi() {/*
+		tructxnAccessLi = new ArrayList<UserAccess>();
+		thinhnkAccessLi = new ArrayList<UserAccess>();
+		thacduAccessLi = new ArrayList<UserAccess>();
+		testvnbaiAccessLi = new ArrayList<UserAccess>();
+		
+		userAccLi = new ArrayList<UserAccess>();*/
+		
+		//counting number of logins
+		countLoginTimes(tructxnLi, tructxnAccessLi);
+		countLoginTimes(thinhnkLi, thinhnkAccessLi);
+		countLoginTimes(thacduLi, thacduAccessLi);
+		countLoginTimes(testvnbaiLi, testvnbaiAccessLi);
+		
+		// add divided list in one list
+		userAccLi.addAll(tructxnAccessLi);
+		userAccLi.addAll(thinhnkAccessLi);
+		userAccLi.addAll(thacduAccessLi);
+		userAccLi.addAll(testvnbaiAccessLi);
+		
+		// sort userAccLi by date
+		sortUsrAccByDate(userAccLi);
+	}
+	//write data of user login times in document
+	public static void writeData(List<UserAccess> usrAccLi) {
+		Document doc = new Document();
+		String date = usrAccLi.get(0).getLoginDate();
+		// if turn to another date then jump to next document
+		for(UserAccess user : usrAccLi) {
+			if(!user.getLoginDate().equals(date)) {
+				// write document 
+				if(user.getNickName().contains("tructxn")) {
+					doc.append("tructxnNum", user.getCount());
+				}
+				else if(user.getNickName().contains("thacdu")) {
+					doc.append("thacduNum", user.getCount());
+				}
+				else if(user.getNickName().contains("testvnbai")) {
+					doc.append("testvnbaiNum", user.getCount());
+				}
+				else if(user.getNickName().contains("thinhnk")) {
+					doc.append("thinhnk", user.getCount());
+				}
+				doc.append("LoginDate", date);
+				MongoPool.log("UserLoginNumbers", doc);
+				// update date 
+				// create new document
+				date = user.getLoginDate();
+				doc = new Document();
+			}
+			else if(user.equals(usrAccLi.get(usrAccLi.size()-1))) {
+				// if user is the last one then write on document
+				// write document 
+				if(user.getNickName().contains("tructxn")) {
+					doc.append("tructxnNum", user.getCount());
+				}
+				else if(user.getNickName().contains("thacdu")) {
+					doc.append("thacduNum", user.getCount());
+				}
+				else if(user.getNickName().contains("testvnbai")) {
+					doc.append("testvnbaiNum", user.getCount());
+				}
+				else if(user.getNickName().contains("thinhnk")) {
+					doc.append("thinhnk", user.getCount());
+				}
+				doc.append("LoginDate", date);
+				MongoPool.log("UserLoginNumbers", doc);
+			}
+		}
+		
+	}
+	/*
 	// testing getUserAccess
 	public static void main(String[] args) throws IOException, ParseException {
 		// record users
 		getUser();
+	
 		//  divide to each user list depends on nickname
 		divideUserList(users);
-		for(User user: thacduLi) {
-			System.out.println();
-			System.out.print("username: "+user.getUserName());
-			System.out.print("\tnickname: "+user.getNickName());
-			System.out.print("\t login Date: "+DateConvertion.timestampToDate(user.get_id().getTimestamp()));
-			System.out.print("\t timestamp: "+user.get_id().getTimestamp());
-			
-		}
-		System.out.println();
-		System.out.println("sort by date");
+		
 		// sort by date
-		thacduAccessLi =  new ArrayList<UserAccess>();
-		countLoginTimes(thacduLi, thacduAccessLi);
-		for(User user: thacduLi) {
-			System.out.println();
-			System.out.print("username: "+user.getUserName());
-			System.out.print("\tnickname: "+user.getNickName());
-			System.out.print("\t login Date: "+DateConvertion.timestampToDate(user.get_id().getTimestamp()));
-			System.out.print("\t timestamp: "+user.get_id().getTimestamp());
-			
-		}
-		for(UserAccess user: thacduAccessLi) {
+		setUserAccessLi();
+		System.out.println("after counting");
+		for(UserAccess user: userAccLi) {
 			System.out.println();
 			System.out.print("\tnickname: "+user.getNickName());
-			System.out.print("\t login Date: "+user.getLoginDate());
 			System.out.print("\t count: "+user.getCount());
-			
+			System.out.print("\t login Date: "+user.getLoginDate());
 		}
-	}
+		
+	}*/
 	
 }
