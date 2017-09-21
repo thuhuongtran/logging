@@ -16,7 +16,7 @@ public class DateConvertion {
 		return format.format(calendar.getTime());
 
 	}
-
+/*
 	// convert input date to timestamp
 	// return start date in timestamp
 	public static long startTimestamp(Date date) {
@@ -57,6 +57,6 @@ public class DateConvertion {
 
 		return format.format(cal.getTime());
 	}
-	
+	*/
 	
 }
