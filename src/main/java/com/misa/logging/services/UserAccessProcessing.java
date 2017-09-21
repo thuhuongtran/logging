@@ -172,24 +172,14 @@ public class UserAccessProcessing {
 	}
 	//write data of user login times in document
 	public static void writeData(List<UserAccess> usrAccLi) {
-		Document doc = new Document();
-		String date = usrAccLi.get(0).getLoginDate();
+		//Document doc = new Document();
+		//String date = usrAccLi.get(0).getLoginDate();
 		// if turn to another date then jump to next document
 		for(UserAccess user : usrAccLi) {
+			// write document 
+			/*writeFieldCount(user, doc);
+			
 			if(!user.getLoginDate().equals(date)) {
-				// write document 
-				if(user.getNickName().contains("tructxn")) {
-					doc.append("tructxnNum", user.getCount());
-				}
-				else if(user.getNickName().contains("thacdu")) {
-					doc.append("thacduNum", user.getCount());
-				}
-				else if(user.getNickName().contains("testvnbai")) {
-					doc.append("testvnbaiNum", user.getCount());
-				}
-				else if(user.getNickName().contains("thinhnk")) {
-					doc.append("thinhnk", user.getCount());
-				}
 				doc.append("LoginDate", date);
 				MongoPool.log("UserLoginNumbers", doc);
 				// update date 
@@ -200,22 +190,39 @@ public class UserAccessProcessing {
 			else if(user.equals(usrAccLi.get(usrAccLi.size()-1))) {
 				// if user is the last one then write on document
 				// write document 
-				if(user.getNickName().contains("tructxn")) {
-					doc.append("tructxnNum", user.getCount());
-				}
-				else if(user.getNickName().contains("thacdu")) {
-					doc.append("thacduNum", user.getCount());
-				}
-				else if(user.getNickName().contains("testvnbai")) {
-					doc.append("testvnbaiNum", user.getCount());
-				}
-				else if(user.getNickName().contains("thinhnk")) {
-					doc.append("thinhnk", user.getCount());
-				}
+				writeFieldCount(user, doc);
 				doc.append("LoginDate", date);
 				MongoPool.log("UserLoginNumbers", doc);
+				
 			}
+			*/
+			Document doc = new Document();
+			doc.append(user.getNickName(), user.getCount());
+			doc.append("Date", user.getLoginDate());
+			
+			MongoPool.log("UserLoginNumbers", doc);
 		}
+		
+	}
+	//write field count
+	public static void writeFieldCount(UserAccess userAcc, Document doc) {
+		if(userAcc.getNickName().contains("tructxn")) {
+			System.out.println("truc "+userAcc.getCount());
+			doc.append("tructxnNum", userAcc.getCount());
+		}
+		else if(userAcc.getNickName().contains("thacdu")) {
+			System.out.println("thac "+userAcc.getCount());
+			doc.append("thacduNum", userAcc.getCount());
+		}
+		else if(userAcc.getNickName().contains("testvnbai")) {
+			System.out.println("test "+userAcc.getCount());
+			doc.append("testvnbaiNum", userAcc.getCount());
+		}
+		else if(userAcc.getNickName().contains("thinhnk")) {
+			System.out.println("thinh "+userAcc.getCount());
+			doc.append("thinhnk", userAcc.getCount());
+		}
+
 		
 	}
 	/*
