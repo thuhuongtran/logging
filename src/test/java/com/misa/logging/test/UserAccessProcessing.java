@@ -1,4 +1,4 @@
-package com.misa.logging.services;
+package com.misa.logging.test;
 
 import java.io.IOException;
 import java.util.ArrayList;
@@ -13,6 +13,7 @@ import org.jongo.MongoCollection;
 import com.misa.core.pools.MongoPool;
 import com.misa.logging.entity.User;
 import com.misa.logging.entity.UserAccess;
+import com.misa.logging.services.DateConvertion;
 
 public class UserAccessProcessing {
 	public static List<User> users;
@@ -69,12 +70,7 @@ public class UserAccessProcessing {
 	}
 	//divide total userlist in each list of user
 	public static void divideUserList(List<User> userli) {
-		/*
-		tructxnLi = new ArrayList<User>();
-		thinhnkLi = new ArrayList<User>();
-		thacduLi = new ArrayList<User>();
-		testvnbaiLi = new ArrayList<User>();
-		*/
+	
 		
 		//if nickname contains name then add to list, otherwise turn to other list
 		for(User user : userli) {
@@ -146,14 +142,7 @@ public class UserAccessProcessing {
 	}
 	// count login times of each user
 	// add all in a list
-	public static void setUserAccessLi() {/*
-		tructxnAccessLi = new ArrayList<UserAccess>();
-		thinhnkAccessLi = new ArrayList<UserAccess>();
-		thacduAccessLi = new ArrayList<UserAccess>();
-		testvnbaiAccessLi = new ArrayList<UserAccess>();
-		
-		userAccLi = new ArrayList<UserAccess>();*/
-		
+	public static void setUserAccessLi() {
 		//counting number of logins
 		countLoginTimes(tructxnLi, tructxnAccessLi);
 		countLoginTimes(thinhnkLi, thinhnkAccessLi);
@@ -176,25 +165,7 @@ public class UserAccessProcessing {
 		// if turn to another date then jump to next document
 		for(UserAccess user : usrAccLi) {
 			// write document 
-			/*writeFieldCount(user, doc);
 			
-			if(!user.getLoginDate().equals(date)) {
-				doc.append("LoginDate", date);
-				MongoPool.log("UserLoginNumbers", doc);
-				// update date 
-				// create new document
-				date = user.getLoginDate();
-				doc = new Document();
-			}
-			else if(user.equals(usrAccLi.get(usrAccLi.size()-1))) {
-				// if user is the last one then write on document
-				// write document 
-				writeFieldCount(user, doc);
-				doc.append("LoginDate", date);
-				MongoPool.log("UserLoginNumbers", doc);
-				
-			}
-			*/
 			Document doc = new Document();
 			doc.append(user.getNickName(), user.getCount());
 			doc.append("Date", user.getLoginDate());
@@ -224,25 +195,6 @@ public class UserAccessProcessing {
 
 		
 	}
-	/*
-	// testing getUserAccess
-	public static void main(String[] args) throws IOException, ParseException {
-		// record users
-		getUser();
 	
-		//  divide to each user list depends on nickname
-		divideUserList(users);
-		
-		// sort by date
-		setUserAccessLi();
-		System.out.println("after counting");
-		for(UserAccess user: userAccLi) {
-			System.out.println();
-			System.out.print("\tnickname: "+user.getNickName());
-			System.out.print("\t count: "+user.getCount());
-			System.out.print("\t login Date: "+user.getLoginDate());
-		}
-		
-	}*/
 	
 }

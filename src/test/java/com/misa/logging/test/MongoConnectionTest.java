@@ -4,7 +4,15 @@ import org.apache.log4j.PropertyConfigurator;
 import org.bson.Document;
 
 import java.util.Calendar;
-
+/*
+ * run task in each day
+ * design again database
+ * write code following an other logic 
+ * 
+ * divide by date firstly
+ * then count user logging times in each small list
+ * then add to new list
+ * */
 public class MongoConnectionTest {
     public static void main(String[] args){
         try {

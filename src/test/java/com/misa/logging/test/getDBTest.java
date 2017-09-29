@@ -96,6 +96,69 @@ public class getDBTest {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
+		/*
+		// testing get user --good
+		List<User> userLi = DataProcess.getUser();
+		for(User user : userLi) {
+			System.out.println();
+			System.out.print("\t"+DateConvertion.timestampToDate(user.get_id().getTimestamp()));
+			System.out.print("\t"+user.getNickName());
+		}
+		*/
+		/*
+		// testing divided list of user by date --good
+		List<User> dividedUserLi = DataProcess.divideUserListbyDate(DataProcess.getUser());
+		for(User user : dividedUserLi) {
+			System.out.println();
+			if(user.get_id()==null)
+				System.out.print("\t login date null");
+			else
+				System.out.print("\t"+DateConvertion.timestampToDate(user.get_id().getTimestamp()));
+			System.out.print("\t"+user.getNickName());
+		}
+		*/
+		/*
+		// testing divided by nickName --good
+		List<User> dividedByNameUserLi = DataProcess.sortByNickName(DataProcess.getUser().subList(4, 48));
+		
+		for(User user : dividedByNameUserLi) {
+			System.out.println();
+			if(user.get_id()==null)
+				System.out.print("\t login date null");
+			else
+				System.out.print("\t"+DateConvertion.timestampToDate(user.get_id().getTimestamp()));
+			System.out.print("\t"+user.getNickName());
+		}
+		*/
+		/*
+		try {
+			
+			
+            UserAccessProcessing usrAccProcess = new UserAccessProcessing();
+           // get list of all user
+            usrAccProcess.getUser();
+            // divide to list of each user sorted by nickName
+            usrAccProcess.divideUserList(usrAccProcess.users);
+            
+            // counting number of logins of each user
+            // then adding in a list
+            // then sorting by date
+            // finally write on database
+            usrAccProcess.setUserAccessLi();
+            usrAccProcess.writeData(usrAccProcess.userAccLi);
+            
+            for(UserAccess user: usrAccProcess.userAccLi) {
+    			System.out.println();
+    			System.out.print("\tnickname: "+user.getNickName());
+    			System.out.print("\t count: "+user.getCount());
+    			System.out.print("\t login Date: "+user.getLoginDate());
+    		}
+            
+         }catch (Exception e){
+            e.printStackTrace();
+        }
+        */
+		
 
 	}
 

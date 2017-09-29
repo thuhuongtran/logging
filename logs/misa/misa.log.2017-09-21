@@ -1,0 +1,106 @@
+21 Sep 2017, 09:30:24,218 Log to UserLoginNumbers : { "_id" : { "$oid" : "59c3244052628d0fd8b47bbb" }, "tructxnNum" : 4 }
+21 Sep 2017, 09:31:12,876 Log to UserLoginNumbers : { "_id" : { "$oid" : "59c3247052628d1720a4a120" }, "tructxnNum" : 4 }
+21 Sep 2017, 09:32:19,173 Log to UserLoginNumbers : { "_id" : { "$oid" : "59c324b352628d0518ec9ebf" }, "tructxnNum" : 8, "thinhnk" : 1, "LoginDate" : "02-09-2017" }
+21 Sep 2017, 09:32:19,196 Log to UserLoginNumbers : { "_id" : { "$oid" : "59c324b352628d0518ec9ec0" }, "thinhnk" : 26, "thacduNum" : 29, "LoginDate" : "03-09-2017" }
+21 Sep 2017, 09:32:19,218 Log to UserLoginNumbers : { "_id" : { "$oid" : "59c324b352628d0518ec9ec1" }, "tructxnNum" : 3, "LoginDate" : "04-09-2017" }
+21 Sep 2017, 09:32:19,244 Log to UserLoginNumbers : { "_id" : { "$oid" : "59c324b352628d0518ec9ec2" }, "thacduNum" : 33, "LoginDate" : "05-09-2017" }
+21 Sep 2017, 09:32:19,267 Log to UserLoginNumbers : { "_id" : { "$oid" : "59c324b352628d0518ec9ec3" }, "thacduNum" : 1, "LoginDate" : "06-09-2017" }
+21 Sep 2017, 09:32:19,289 Log to UserLoginNumbers : { "_id" : { "$oid" : "59c324b352628d0518ec9ec4" }, "tructxnNum" : 16, "LoginDate" : "14-09-2017" }
+21 Sep 2017, 09:32:19,311 Log to UserLoginNumbers : { "_id" : { "$oid" : "59c324b352628d0518ec9ec5" }, "thacduNum" : 25, "LoginDate" : "15-09-2017" }
+21 Sep 2017, 09:32:19,334 Log to UserLoginNumbers : { "_id" : { "$oid" : "59c324b352628d0518ec9ec6" }, "thacduNum" : 38, "LoginDate" : "16-09-2017" }
+21 Sep 2017, 09:32:19,357 Log to UserLoginNumbers : { "_id" : { "$oid" : "59c324b352628d0518ec9ec7" }, "thacduNum" : 62, "LoginDate" : "17-09-2017" }
+21 Sep 2017, 09:32:19,379 Log to UserLoginNumbers : { "_id" : { "$oid" : "59c324b352628d0518ec9ec8" }, "tructxnNum" : 5, "LoginDate" : "18-09-2017" }
+21 Sep 2017, 09:32:19,402 Log to UserLoginNumbers : { "_id" : { "$oid" : "59c324b352628d0518ec9ec9" }, "thacduNum" : 45, "testvnbaiNum" : 28, "tructxnNum" : 7, "LoginDate" : "19-09-2017" }
+21 Sep 2017, 09:32:19,424 Log to UserLoginNumbers : { "_id" : { "$oid" : "59c324b352628d0518ec9eca" }, "thacduNum" : 87, "testvnbaiNum" : 14, "LoginDate" : "20-09-2017" }
+21 Sep 2017, 09:33:30,768 Log to UserLoginNumbers : { "_id" : { "$oid" : "59c324fa52628d1f842a9e90" }, "tructxnNum" : 8, "thinhnk" : 1, "LoginDate" : "02-09-2017" }
+21 Sep 2017, 09:33:30,791 Log to UserLoginNumbers : { "_id" : { "$oid" : "59c324fa52628d1f842a9e91" }, "thinhnk" : 26, "thacduNum" : 29, "LoginDate" : "03-09-2017" }
+21 Sep 2017, 09:33:30,813 Log to UserLoginNumbers : { "_id" : { "$oid" : "59c324fa52628d1f842a9e92" }, "tructxnNum" : 3, "LoginDate" : "04-09-2017" }
+21 Sep 2017, 09:33:30,835 Log to UserLoginNumbers : { "_id" : { "$oid" : "59c324fa52628d1f842a9e93" }, "thacduNum" : 33, "LoginDate" : "05-09-2017" }
+21 Sep 2017, 09:33:30,858 Log to UserLoginNumbers : { "_id" : { "$oid" : "59c324fa52628d1f842a9e94" }, "thacduNum" : 1, "LoginDate" : "06-09-2017" }
+21 Sep 2017, 09:33:30,882 Log to UserLoginNumbers : { "_id" : { "$oid" : "59c324fa52628d1f842a9e95" }, "tructxnNum" : 16, "LoginDate" : "14-09-2017" }
+21 Sep 2017, 09:33:30,906 Log to UserLoginNumbers : { "_id" : { "$oid" : "59c324fa52628d1f842a9e96" }, "thacduNum" : 25, "LoginDate" : "15-09-2017" }
+21 Sep 2017, 09:33:30,929 Log to UserLoginNumbers : { "_id" : { "$oid" : "59c324fa52628d1f842a9e97" }, "thacduNum" : 38, "LoginDate" : "16-09-2017" }
+21 Sep 2017, 09:33:30,953 Log to UserLoginNumbers : { "_id" : { "$oid" : "59c324fa52628d1f842a9e98" }, "thacduNum" : 62, "LoginDate" : "17-09-2017" }
+21 Sep 2017, 09:33:30,976 Log to UserLoginNumbers : { "_id" : { "$oid" : "59c324fa52628d1f842a9e99" }, "tructxnNum" : 5, "LoginDate" : "18-09-2017" }
+21 Sep 2017, 09:33:30,999 Log to UserLoginNumbers : { "_id" : { "$oid" : "59c324fa52628d1f842a9e9a" }, "thacduNum" : 45, "testvnbaiNum" : 28, "tructxnNum" : 7, "LoginDate" : "19-09-2017" }
+21 Sep 2017, 09:33:31,021 Log to UserLoginNumbers : { "_id" : { "$oid" : "59c324fa52628d1f842a9e9b" }, "thacduNum" : 87, "testvnbaiNum" : 14, "LoginDate" : "20-09-2017" }
+21 Sep 2017, 09:34:09,404 Log to StudenIntership : { "_id" : { "$oid" : "59c3252052628d1c1c827988" }, "name" : "Thu Huong", "school" : "HUST" }
+21 Sep 2017, 09:34:31,568 Log to StudenIntership : { "_id" : { "$oid" : "59c3253752628d15842e716f" }, "name" : "Thu Huong", "school" : "HUST" }
+21 Sep 2017, 09:35:28,524 Log to UserLoginNumbers : { "_id" : { "$oid" : "59c3257052628d223c743b67" }, "tructxnNum" : 8, "thinhnk" : 1, "LoginDate" : "02-09-2017" }
+21 Sep 2017, 09:35:28,547 Log to UserLoginNumbers : { "_id" : { "$oid" : "59c3257052628d223c743b68" }, "thinhnk" : 26, "thacduNum" : 29, "LoginDate" : "03-09-2017" }
+21 Sep 2017, 09:35:28,569 Log to UserLoginNumbers : { "_id" : { "$oid" : "59c3257052628d223c743b69" }, "tructxnNum" : 3, "LoginDate" : "04-09-2017" }
+21 Sep 2017, 09:35:28,592 Log to UserLoginNumbers : { "_id" : { "$oid" : "59c3257052628d223c743b6a" }, "thacduNum" : 33, "LoginDate" : "05-09-2017" }
+21 Sep 2017, 09:35:28,613 Log to UserLoginNumbers : { "_id" : { "$oid" : "59c3257052628d223c743b6b" }, "thacduNum" : 1, "LoginDate" : "06-09-2017" }
+21 Sep 2017, 09:35:28,636 Log to UserLoginNumbers : { "_id" : { "$oid" : "59c3257052628d223c743b6c" }, "tructxnNum" : 16, "LoginDate" : "14-09-2017" }
+21 Sep 2017, 09:35:28,659 Log to UserLoginNumbers : { "_id" : { "$oid" : "59c3257052628d223c743b6d" }, "thacduNum" : 25, "LoginDate" : "15-09-2017" }
+21 Sep 2017, 09:35:28,680 Log to UserLoginNumbers : { "_id" : { "$oid" : "59c3257052628d223c743b6e" }, "thacduNum" : 38, "LoginDate" : "16-09-2017" }
+21 Sep 2017, 09:35:28,703 Log to UserLoginNumbers : { "_id" : { "$oid" : "59c3257052628d223c743b6f" }, "thacduNum" : 62, "LoginDate" : "17-09-2017" }
+21 Sep 2017, 09:35:28,725 Log to UserLoginNumbers : { "_id" : { "$oid" : "59c3257052628d223c743b70" }, "tructxnNum" : 5, "LoginDate" : "18-09-2017" }
+21 Sep 2017, 09:35:28,746 Log to UserLoginNumbers : { "_id" : { "$oid" : "59c3257052628d223c743b71" }, "thacduNum" : 45, "testvnbaiNum" : 28, "tructxnNum" : 7, "LoginDate" : "19-09-2017" }
+21 Sep 2017, 09:35:28,768 Log to UserLoginNumbers : { "_id" : { "$oid" : "59c3257052628d223c743b72" }, "thacduNum" : 87, "testvnbaiNum" : 14, "LoginDate" : "20-09-2017" }
+21 Sep 2017, 09:46:18,454 Log to UserLoginNumbers : { "_id" : { "$oid" : "59c327fa52628d0a945c263c" }, "tructxnNum" : 8, "thinhnk" : 1, "LoginDate" : "02-09-2017" }
+21 Sep 2017, 09:46:18,479 Log to UserLoginNumbers : { "_id" : { "$oid" : "59c327fa52628d0a945c263d" }, "thinhnk" : 26, "thacduNum" : 29, "LoginDate" : "03-09-2017" }
+21 Sep 2017, 09:46:18,504 Log to UserLoginNumbers : { "_id" : { "$oid" : "59c327fa52628d0a945c263e" }, "tructxnNum" : 3, "LoginDate" : "04-09-2017" }
+21 Sep 2017, 09:46:18,528 Log to UserLoginNumbers : { "_id" : { "$oid" : "59c327fa52628d0a945c263f" }, "thacduNum" : 33, "LoginDate" : "05-09-2017" }
+21 Sep 2017, 09:46:18,553 Log to UserLoginNumbers : { "_id" : { "$oid" : "59c327fa52628d0a945c2640" }, "thacduNum" : 1, "LoginDate" : "06-09-2017" }
+21 Sep 2017, 09:46:18,577 Log to UserLoginNumbers : { "_id" : { "$oid" : "59c327fa52628d0a945c2641" }, "tructxnNum" : 16, "LoginDate" : "14-09-2017" }
+21 Sep 2017, 09:46:18,602 Log to UserLoginNumbers : { "_id" : { "$oid" : "59c327fa52628d0a945c2642" }, "thacduNum" : 25, "LoginDate" : "15-09-2017" }
+21 Sep 2017, 09:46:18,626 Log to UserLoginNumbers : { "_id" : { "$oid" : "59c327fa52628d0a945c2643" }, "thacduNum" : 38, "LoginDate" : "16-09-2017" }
+21 Sep 2017, 09:46:18,652 Log to UserLoginNumbers : { "_id" : { "$oid" : "59c327fa52628d0a945c2644" }, "thacduNum" : 62, "LoginDate" : "17-09-2017" }
+21 Sep 2017, 09:46:18,676 Log to UserLoginNumbers : { "_id" : { "$oid" : "59c327fa52628d0a945c2645" }, "tructxnNum" : 5, "LoginDate" : "18-09-2017" }
+21 Sep 2017, 09:46:18,701 Log to UserLoginNumbers : { "_id" : { "$oid" : "59c327fa52628d0a945c2646" }, "thacduNum" : 45, "testvnbaiNum" : 28, "tructxnNum" : 7, "LoginDate" : "19-09-2017" }
+21 Sep 2017, 09:46:18,726 Log to UserLoginNumbers : { "_id" : { "$oid" : "59c327fa52628d0a945c2647" }, "thacduNum" : 87, "testvnbaiNum" : 14, "LoginDate" : "20-09-2017" }
+21 Sep 2017, 09:52:36,538 Log to UserLoginNumbers : { "_id" : { "$oid" : "59c3297452628d1b8410ba21" }, "tructxnNum" : 8, "thinhnk" : 1, "LoginDate" : "02-09-2017" }
+21 Sep 2017, 09:52:36,563 Log to UserLoginNumbers : { "_id" : { "$oid" : "59c3297452628d1b8410ba22" }, "thinhnk" : 26, "thacduNum" : 29, "LoginDate" : "03-09-2017" }
+21 Sep 2017, 09:52:36,589 Log to UserLoginNumbers : { "_id" : { "$oid" : "59c3297452628d1b8410ba23" }, "tructxnNum" : 3, "LoginDate" : "04-09-2017" }
+21 Sep 2017, 09:52:36,615 Log to UserLoginNumbers : { "_id" : { "$oid" : "59c3297452628d1b8410ba24" }, "thacduNum" : 33, "LoginDate" : "05-09-2017" }
+21 Sep 2017, 09:52:36,641 Log to UserLoginNumbers : { "_id" : { "$oid" : "59c3297452628d1b8410ba25" }, "thacduNum" : 1, "LoginDate" : "06-09-2017" }
+21 Sep 2017, 09:52:36,666 Log to UserLoginNumbers : { "_id" : { "$oid" : "59c3297452628d1b8410ba26" }, "tructxnNum" : 16, "LoginDate" : "14-09-2017" }
+21 Sep 2017, 09:52:36,691 Log to UserLoginNumbers : { "_id" : { "$oid" : "59c3297452628d1b8410ba27" }, "thacduNum" : 25, "LoginDate" : "15-09-2017" }
+21 Sep 2017, 09:52:36,718 Log to UserLoginNumbers : { "_id" : { "$oid" : "59c3297452628d1b8410ba28" }, "thacduNum" : 38, "LoginDate" : "16-09-2017" }
+21 Sep 2017, 09:52:36,744 Log to UserLoginNumbers : { "_id" : { "$oid" : "59c3297452628d1b8410ba29" }, "thacduNum" : 62, "LoginDate" : "17-09-2017" }
+21 Sep 2017, 09:52:36,769 Log to UserLoginNumbers : { "_id" : { "$oid" : "59c3297452628d1b8410ba2a" }, "tructxnNum" : 5, "LoginDate" : "18-09-2017" }
+21 Sep 2017, 09:52:36,795 Log to UserLoginNumbers : { "_id" : { "$oid" : "59c3297452628d1b8410ba2b" }, "thacduNum" : 45, "testvnbaiNum" : 28, "tructxnNum" : 7, "LoginDate" : "19-09-2017" }
+21 Sep 2017, 09:52:36,822 Log to UserLoginNumbers : { "_id" : { "$oid" : "59c3297452628d1b8410ba2c" }, "thacduNum" : 87, "testvnbaiNum" : 14, "LoginDate" : "20-09-2017" }
+21 Sep 2017, 10:00:50,862 Log to UserLoginNumbers : { "_id" : { "$oid" : "59c32b6252628d1060128a91" }, "tructxn" : 4, "Date" : "02-09-2017" }
+21 Sep 2017, 10:00:50,887 Log to UserLoginNumbers : { "_id" : { "$oid" : "59c32b6252628d1060128a92" }, "thinhnk" : 1, "Date" : "02-09-2017" }
+21 Sep 2017, 10:00:50,912 Log to UserLoginNumbers : { "_id" : { "$oid" : "59c32b6252628d1060128a93" }, "tructxn" : 8, "Date" : "03-09-2017" }
+21 Sep 2017, 10:00:50,938 Log to UserLoginNumbers : { "_id" : { "$oid" : "59c32b6252628d1060128a94" }, "thinhnk" : 26, "Date" : "03-09-2017" }
+21 Sep 2017, 10:00:50,965 Log to UserLoginNumbers : { "_id" : { "$oid" : "59c32b6252628d1060128a95" }, "thacdu" : 59, "Date" : "03-09-2017" }
+21 Sep 2017, 10:00:50,992 Log to UserLoginNumbers : { "_id" : { "$oid" : "59c32b6252628d1060128a96" }, "thacdu" : 29, "Date" : "04-09-2017" }
+21 Sep 2017, 10:00:51,019 Log to UserLoginNumbers : { "_id" : { "$oid" : "59c32b6252628d1060128a97" }, "tructxn" : 3, "Date" : "05-09-2017" }
+21 Sep 2017, 10:00:51,045 Log to UserLoginNumbers : { "_id" : { "$oid" : "59c32b6352628d1060128a98" }, "thacdu" : 19, "Date" : "05-09-2017" }
+21 Sep 2017, 10:00:51,073 Log to UserLoginNumbers : { "_id" : { "$oid" : "59c32b6352628d1060128a99" }, "thacdu" : 33, "Date" : "06-09-2017" }
+21 Sep 2017, 10:00:51,099 Log to UserLoginNumbers : { "_id" : { "$oid" : "59c32b6352628d1060128a9a" }, "thacdu" : 1, "Date" : "14-09-2017" }
+21 Sep 2017, 10:00:51,125 Log to UserLoginNumbers : { "_id" : { "$oid" : "59c32b6352628d1060128a9b" }, "tructxn" : 16, "Date" : "15-09-2017" }
+21 Sep 2017, 10:00:51,152 Log to UserLoginNumbers : { "_id" : { "$oid" : "59c32b6352628d1060128a9c" }, "thacdu" : 9, "Date" : "15-09-2017" }
+21 Sep 2017, 10:00:51,179 Log to UserLoginNumbers : { "_id" : { "$oid" : "59c32b6352628d1060128a9d" }, "thacdu" : 25, "Date" : "16-09-2017" }
+21 Sep 2017, 10:00:51,206 Log to UserLoginNumbers : { "_id" : { "$oid" : "59c32b6352628d1060128a9e" }, "thacdu" : 38, "Date" : "17-09-2017" }
+21 Sep 2017, 10:00:51,233 Log to UserLoginNumbers : { "_id" : { "$oid" : "59c32b6352628d1060128a9f" }, "thacdu" : 62, "Date" : "18-09-2017" }
+21 Sep 2017, 10:00:51,259 Log to UserLoginNumbers : { "_id" : { "$oid" : "59c32b6352628d1060128aa0" }, "tructxn" : 5, "Date" : "19-09-2017" }
+21 Sep 2017, 10:00:51,285 Log to UserLoginNumbers : { "_id" : { "$oid" : "59c32b6352628d1060128aa1" }, "thacdu" : 45, "Date" : "19-09-2017" }
+21 Sep 2017, 10:00:51,312 Log to UserLoginNumbers : { "_id" : { "$oid" : "59c32b6352628d1060128aa2" }, "testvnbai" : 28, "Date" : "19-09-2017" }
+21 Sep 2017, 10:00:51,338 Log to UserLoginNumbers : { "_id" : { "$oid" : "59c32b6352628d1060128aa3" }, "tructxn" : 7, "Date" : "20-09-2017" }
+21 Sep 2017, 10:00:51,364 Log to UserLoginNumbers : { "_id" : { "$oid" : "59c32b6352628d1060128aa4" }, "thacdu" : 87, "Date" : "20-09-2017" }
+21 Sep 2017, 10:00:51,391 Log to UserLoginNumbers : { "_id" : { "$oid" : "59c32b6352628d1060128aa5" }, "testvnbai" : 14, "Date" : "20-09-2017" }
+21 Sep 2017, 10:01:09,602 Log to UserLoginNumbers : { "_id" : { "$oid" : "59c32b7552628d1034621760" }, "tructxn" : 4, "Date" : "02-09-2017" }
+21 Sep 2017, 10:01:09,627 Log to UserLoginNumbers : { "_id" : { "$oid" : "59c32b7552628d1034621761" }, "thinhnk" : 1, "Date" : "02-09-2017" }
+21 Sep 2017, 10:01:09,653 Log to UserLoginNumbers : { "_id" : { "$oid" : "59c32b7552628d1034621762" }, "tructxn" : 8, "Date" : "03-09-2017" }
+21 Sep 2017, 10:01:09,678 Log to UserLoginNumbers : { "_id" : { "$oid" : "59c32b7552628d1034621763" }, "thinhnk" : 26, "Date" : "03-09-2017" }
+21 Sep 2017, 10:01:09,704 Log to UserLoginNumbers : { "_id" : { "$oid" : "59c32b7552628d1034621764" }, "thacdu" : 59, "Date" : "03-09-2017" }
+21 Sep 2017, 10:01:09,732 Log to UserLoginNumbers : { "_id" : { "$oid" : "59c32b7552628d1034621765" }, "thacdu" : 29, "Date" : "04-09-2017" }
+21 Sep 2017, 10:01:09,758 Log to UserLoginNumbers : { "_id" : { "$oid" : "59c32b7552628d1034621766" }, "tructxn" : 3, "Date" : "05-09-2017" }
+21 Sep 2017, 10:01:09,783 Log to UserLoginNumbers : { "_id" : { "$oid" : "59c32b7552628d1034621767" }, "thacdu" : 19, "Date" : "05-09-2017" }
+21 Sep 2017, 10:01:09,808 Log to UserLoginNumbers : { "_id" : { "$oid" : "59c32b7552628d1034621768" }, "thacdu" : 33, "Date" : "06-09-2017" }
+21 Sep 2017, 10:01:09,834 Log to UserLoginNumbers : { "_id" : { "$oid" : "59c32b7552628d1034621769" }, "thacdu" : 1, "Date" : "14-09-2017" }
+21 Sep 2017, 10:01:09,860 Log to UserLoginNumbers : { "_id" : { "$oid" : "59c32b7552628d103462176a" }, "tructxn" : 16, "Date" : "15-09-2017" }
+21 Sep 2017, 10:01:09,886 Log to UserLoginNumbers : { "_id" : { "$oid" : "59c32b7552628d103462176b" }, "thacdu" : 9, "Date" : "15-09-2017" }
+21 Sep 2017, 10:01:09,912 Log to UserLoginNumbers : { "_id" : { "$oid" : "59c32b7552628d103462176c" }, "thacdu" : 25, "Date" : "16-09-2017" }
+21 Sep 2017, 10:01:09,939 Log to UserLoginNumbers : { "_id" : { "$oid" : "59c32b7552628d103462176d" }, "thacdu" : 38, "Date" : "17-09-2017" }
+21 Sep 2017, 10:01:09,964 Log to UserLoginNumbers : { "_id" : { "$oid" : "59c32b7552628d103462176e" }, "thacdu" : 62, "Date" : "18-09-2017" }
+21 Sep 2017, 10:01:09,990 Log to UserLoginNumbers : { "_id" : { "$oid" : "59c32b7552628d103462176f" }, "tructxn" : 5, "Date" : "19-09-2017" }
+21 Sep 2017, 10:01:10,018 Log to UserLoginNumbers : { "_id" : { "$oid" : "59c32b7552628d1034621770" }, "thacdu" : 45, "Date" : "19-09-2017" }
+21 Sep 2017, 10:01:10,045 Log to UserLoginNumbers : { "_id" : { "$oid" : "59c32b7652628d1034621771" }, "testvnbai" : 28, "Date" : "19-09-2017" }
+21 Sep 2017, 10:01:10,072 Log to UserLoginNumbers : { "_id" : { "$oid" : "59c32b7652628d1034621772" }, "tructxn" : 7, "Date" : "20-09-2017" }
+21 Sep 2017, 10:01:10,099 Log to UserLoginNumbers : { "_id" : { "$oid" : "59c32b7652628d1034621773" }, "thacdu" : 87, "Date" : "20-09-2017" }
+21 Sep 2017, 10:01:10,125 Log to UserLoginNumbers : { "_id" : { "$oid" : "59c32b7652628d1034621774" }, "testvnbai" : 14, "Date" : "20-09-2017" }
