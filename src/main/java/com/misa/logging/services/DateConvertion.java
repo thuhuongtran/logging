@@ -14,6 +14,14 @@ public class DateConvertion {
 		return format.format(calendar.getTime());
 
 	}
+	// convert timestamp to hour of date
+	public static String timestampToHour(long timestamp) {
+		Calendar calendar = Calendar.getInstance();
+		calendar.setTimeInMillis(timestamp * 1000);
 
+		DateFormat format = new SimpleDateFormat("hh:mm:ss");
+		return format.format(calendar.getTime());
+
+	}
 	
 }

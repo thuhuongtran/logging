@@ -128,6 +128,7 @@ public class DataProcess {
 				userAcc.setNickName(smallUserLi.get(i-1).getNickName());
 				userAcc.setCount(count);
 				userAcc.setLoginDate(DateConvertion.timestampToDate(smallUserLi.get(i-1).get_id().getTimestamp()));
+				userAcc.setLoginHour(DateConvertion.timestampToHour(smallUserLi.get(i-1).get_id().getTimestamp()));
 				userAccLi.add(userAcc);
 				
 				// set count = 0

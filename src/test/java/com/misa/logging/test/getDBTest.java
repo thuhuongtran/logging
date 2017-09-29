@@ -15,6 +15,8 @@ import org.jongo.MongoCollection;
 
 import com.misa.core.pools.MongoPool;
 import com.misa.logging.entity.User;
+import com.misa.logging.entity.UserAccess;
+import com.misa.logging.services.DataProcess;
 
 public class getDBTest {
 
@@ -37,7 +39,7 @@ public class getDBTest {
 	 */
 	static List<User> loginUsers;
 
-	public static void main(String[] args) throws ParseException {
+	public static void main(String[] args) throws ParseException, IOException {
 		loginUsers = new ArrayList<User>();
 		try {
 			PropertyConfigurator.configure("config/log4j.properties");
@@ -159,6 +161,15 @@ public class getDBTest {
         }
         */
 		
+		List<UserAccess> userAccLi = DataProcess.getUserAccLi(DataProcess.getUser());
+		for(UserAccess usac : userAccLi) {
+			System.out.println();
+			System.out.print("\t" + usac.getNickName());
+			System.out.print("\t" + usac.getCount());
+			System.out.print("\t" + usac.getLoginDate());
+			System.out.print("\t" + usac.getLoginHour());
+			
+		}
 
 	}
 

@@ -328,3 +328,577 @@
 29 Sep 2017, 11:55:14,834 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd23252628d363005c863" }, "NickName" : "tructxn1", "Count" : 8, "Date" : "03-09-2017" }
 29 Sep 2017, 11:55:14,855 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd23252628d363005c864" }, "NickName" : "thinhnk", "Count" : 1, "Date" : "02-09-2017" }
 29 Sep 2017, 11:55:14,876 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd23252628d363005c865" }, "NickName" : "tructxn1", "Count" : 4, "Date" : "02-09-2017" }
+29 Sep 2017, 12:00:22,816 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd36652628d2bc8784750" }, "NickName" : "tructxn1", "Count" : 1, "Date" : "31-08-2017" }
+29 Sep 2017, 12:00:22,841 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd36652628d2bc8784751" }, "NickName" : "thacdu201", "Count" : 2, "Date" : "29-09-2017" }
+29 Sep 2017, 12:00:22,867 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd36652628d2bc8784752" }, "NickName" : "tructxn1", "Count" : 1, "Date" : "28-09-2017" }
+29 Sep 2017, 12:00:22,892 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd36652628d2bc8784753" }, "NickName" : "12344444444", "Count" : 1, "Date" : "27-09-2017" }
+29 Sep 2017, 12:00:22,918 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd36652628d2bc8784754" }, "NickName" : "1234567890b", "Count" : 1, "Date" : "27-09-2017" }
+29 Sep 2017, 12:00:22,945 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd36652628d2bc8784755" }, "NickName" : "abccccccc", "Count" : 4, "Date" : "27-09-2017" }
+29 Sep 2017, 12:00:22,970 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd36652628d2bc8784756" }, "NickName" : "lalala", "Count" : 1, "Date" : "27-09-2017" }
+29 Sep 2017, 12:00:22,996 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd36652628d2bc8784757" }, "NickName" : "testvnbai11", "Count" : 2, "Date" : "27-09-2017" }
+29 Sep 2017, 12:00:23,024 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd36652628d2bc8784758" }, "NickName" : "testvnbai21", "Count" : 1, "Date" : "27-09-2017" }
+29 Sep 2017, 12:00:23,054 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd36752628d2bc8784759" }, "NickName" : "testvnbai221", "Count" : 1, "Date" : "27-09-2017" }
+29 Sep 2017, 12:00:23,082 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd36752628d2bc878475a" }, "NickName" : "thacdu121", "Count" : 7, "Date" : "27-09-2017" }
+29 Sep 2017, 12:00:23,110 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd36752628d2bc878475b" }, "NickName" : "thacdu131", "Count" : 1, "Date" : "27-09-2017" }
+29 Sep 2017, 12:00:23,137 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd36752628d2bc878475c" }, "NickName" : "thacdu201", "Count" : 2, "Date" : "27-09-2017" }
+29 Sep 2017, 12:00:23,165 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd36752628d2bc878475d" }, "NickName" : "thacdu21", "Count" : 2, "Date" : "27-09-2017" }
+29 Sep 2017, 12:00:23,192 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd36752628d2bc878475e" }, "NickName" : "thacdu231", "Count" : 1, "Date" : "27-09-2017" }
+29 Sep 2017, 12:00:23,219 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd36752628d2bc878475f" }, "NickName" : "thacdu301", "Count" : 1, "Date" : "27-09-2017" }
+29 Sep 2017, 12:00:23,246 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd36752628d2bc8784760" }, "NickName" : "thacdu321", "Count" : 1, "Date" : "27-09-2017" }
+29 Sep 2017, 12:00:23,273 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd36752628d2bc8784761" }, "NickName" : "thacdu431", "Count" : 1, "Date" : "27-09-2017" }
+29 Sep 2017, 12:00:23,306 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd36752628d2bc8784762" }, "NickName" : "thacdu571", "Count" : 1, "Date" : "27-09-2017" }
+29 Sep 2017, 12:00:23,334 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd36752628d2bc8784763" }, "NickName" : "thacdu871", "Count" : 1, "Date" : "27-09-2017" }
+29 Sep 2017, 12:00:23,361 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd36752628d2bc8784764" }, "NickName" : "thacdu981", "Count" : 1, "Date" : "27-09-2017" }
+29 Sep 2017, 12:00:23,391 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd36752628d2bc8784765" }, "NickName" : "thinhnk", "Count" : 2, "Date" : "27-09-2017" }
+29 Sep 2017, 12:00:23,418 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd36752628d2bc8784766" }, "NickName" : "tructxn1", "Count" : 5, "Date" : "27-09-2017" }
+29 Sep 2017, 12:00:23,444 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd36752628d2bc8784767" }, "NickName" : "zezeze11", "Count" : 2, "Date" : "27-09-2017" }
+29 Sep 2017, 12:00:23,470 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd36752628d2bc8784768" }, "NickName" : "zozozo", "Count" : 5, "Date" : "27-09-2017" }
+29 Sep 2017, 12:00:23,497 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd36752628d2bc8784769" }, "NickName" : "nickdoctor1", "Count" : 4, "Date" : "26-09-2017" }
+29 Sep 2017, 12:00:23,526 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd36752628d2bc878476a" }, "NickName" : "testvnbai21", "Count" : 2, "Date" : "26-09-2017" }
+29 Sep 2017, 12:00:23,553 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd36752628d2bc878476b" }, "NickName" : "testvnbai41", "Count" : 1, "Date" : "26-09-2017" }
+29 Sep 2017, 12:00:23,579 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd36752628d2bc878476c" }, "NickName" : "thacdu121", "Count" : 7, "Date" : "26-09-2017" }
+29 Sep 2017, 12:00:23,607 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd36752628d2bc878476d" }, "NickName" : "thacdu131", "Count" : 6, "Date" : "26-09-2017" }
+29 Sep 2017, 12:00:23,637 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd36752628d2bc878476e" }, "NickName" : "thacdu141", "Count" : 1, "Date" : "26-09-2017" }
+29 Sep 2017, 12:00:23,664 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd36752628d2bc878476f" }, "NickName" : "thacdu201", "Count" : 2, "Date" : "26-09-2017" }
+29 Sep 2017, 12:00:23,690 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd36752628d2bc8784770" }, "NickName" : "thacdu21", "Count" : 3, "Date" : "26-09-2017" }
+29 Sep 2017, 12:00:23,716 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd36752628d2bc8784771" }, "NickName" : "thacdu301", "Count" : 2, "Date" : "26-09-2017" }
+29 Sep 2017, 12:00:23,743 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd36752628d2bc8784772" }, "NickName" : "thacdu31", "Count" : 1, "Date" : "26-09-2017" }
+29 Sep 2017, 12:00:23,770 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd36752628d2bc8784773" }, "NickName" : "tructxn1", "Count" : 4, "Date" : "26-09-2017" }
+29 Sep 2017, 12:00:23,796 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd36752628d2bc8784774" }, "NickName" : "nickdoctor1", "Count" : 1, "Date" : "25-09-2017" }
+29 Sep 2017, 12:00:23,824 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd36752628d2bc8784775" }, "NickName" : "testvnbai11", "Count" : 1, "Date" : "25-09-2017" }
+29 Sep 2017, 12:00:23,853 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd36752628d2bc8784776" }, "NickName" : "thacdu11", "Count" : 4, "Date" : "25-09-2017" }
+29 Sep 2017, 12:00:23,881 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd36752628d2bc8784777" }, "NickName" : "thacdu121", "Count" : 5, "Date" : "25-09-2017" }
+29 Sep 2017, 12:00:23,907 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd36752628d2bc8784778" }, "NickName" : "thacdu131", "Count" : 2, "Date" : "25-09-2017" }
+29 Sep 2017, 12:00:23,933 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd36752628d2bc8784779" }, "NickName" : "thacdu201", "Count" : 1, "Date" : "25-09-2017" }
+29 Sep 2017, 12:00:23,960 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd36752628d2bc878477a" }, "NickName" : "thacdu301", "Count" : 3, "Date" : "25-09-2017" }
+29 Sep 2017, 12:00:23,990 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd36752628d2bc878477b" }, "NickName" : "thacdu31", "Count" : 2, "Date" : "25-09-2017" }
+29 Sep 2017, 12:00:24,019 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd36752628d2bc878477c" }, "NickName" : "thacdu41", "Count" : 1, "Date" : "25-09-2017" }
+29 Sep 2017, 12:00:24,053 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd36852628d2bc878477d" }, "NickName" : "thacdu431", "Count" : 1, "Date" : "25-09-2017" }
+29 Sep 2017, 12:00:24,081 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd36852628d2bc878477e" }, "NickName" : "thacdu491", "Count" : 1, "Date" : "25-09-2017" }
+29 Sep 2017, 12:00:24,108 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd36852628d2bc878477f" }, "NickName" : "thacdu541", "Count" : 3, "Date" : "25-09-2017" }
+29 Sep 2017, 12:00:24,143 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd36852628d2bc8784780" }, "NickName" : "thacdu561", "Count" : 2, "Date" : "25-09-2017" }
+29 Sep 2017, 12:00:24,169 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd36852628d2bc8784781" }, "NickName" : "thacdu591", "Count" : 2, "Date" : "25-09-2017" }
+29 Sep 2017, 12:00:24,197 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd36852628d2bc8784782" }, "NickName" : "thacdu781", "Count" : 2, "Date" : "25-09-2017" }
+29 Sep 2017, 12:00:24,225 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd36852628d2bc8784783" }, "NickName" : "thacdu851", "Count" : 1, "Date" : "25-09-2017" }
+29 Sep 2017, 12:00:24,253 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd36852628d2bc8784784" }, "NickName" : "thacdu921", "Count" : 1, "Date" : "25-09-2017" }
+29 Sep 2017, 12:00:24,281 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd36852628d2bc8784785" }, "NickName" : "thinhnk", "Count" : 3, "Date" : "25-09-2017" }
+29 Sep 2017, 12:00:24,309 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd36852628d2bc8784786" }, "NickName" : "tructxn1", "Count" : 21, "Date" : "25-09-2017" }
+29 Sep 2017, 12:00:24,335 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd36852628d2bc8784787" }, "NickName" : "thacdu201", "Count" : 2, "Date" : "24-09-2017" }
+29 Sep 2017, 12:00:24,364 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd36852628d2bc8784788" }, "NickName" : "thacdu301", "Count" : 2, "Date" : "24-09-2017" }
+29 Sep 2017, 12:00:24,392 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd36852628d2bc8784789" }, "NickName" : "thacdu41", "Count" : 1, "Date" : "24-09-2017" }
+29 Sep 2017, 12:00:24,420 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd36852628d2bc878478a" }, "NickName" : "nickdoctor1", "Count" : 1, "Date" : "23-09-2017" }
+29 Sep 2017, 12:00:24,447 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd36852628d2bc878478b" }, "NickName" : "testvnbai11", "Count" : 2, "Date" : "23-09-2017" }
+29 Sep 2017, 12:00:24,474 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd36852628d2bc878478c" }, "NickName" : "testvnbai21", "Count" : 2, "Date" : "23-09-2017" }
+29 Sep 2017, 12:00:24,501 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd36852628d2bc878478d" }, "NickName" : "thacdu11", "Count" : 3, "Date" : "23-09-2017" }
+29 Sep 2017, 12:00:24,527 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd36852628d2bc878478e" }, "NickName" : "thacdu121", "Count" : 5, "Date" : "23-09-2017" }
+29 Sep 2017, 12:00:24,554 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd36852628d2bc878478f" }, "NickName" : "thacdu131", "Count" : 10, "Date" : "23-09-2017" }
+29 Sep 2017, 12:00:24,581 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd36852628d2bc8784790" }, "NickName" : "thacdu141", "Count" : 1, "Date" : "23-09-2017" }
+29 Sep 2017, 12:00:24,608 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd36852628d2bc8784791" }, "NickName" : "thacdu201", "Count" : 4, "Date" : "23-09-2017" }
+29 Sep 2017, 12:00:24,634 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd36852628d2bc8784792" }, "NickName" : "thacdu21", "Count" : 2, "Date" : "23-09-2017" }
+29 Sep 2017, 12:00:24,662 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd36852628d2bc8784793" }, "NickName" : "thacdu231", "Count" : 1, "Date" : "23-09-2017" }
+29 Sep 2017, 12:00:24,687 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd36852628d2bc8784794" }, "NickName" : "thacdu301", "Count" : 8, "Date" : "23-09-2017" }
+29 Sep 2017, 12:00:24,712 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd36852628d2bc8784795" }, "NickName" : "thacdu31", "Count" : 3, "Date" : "23-09-2017" }
+29 Sep 2017, 12:00:24,739 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd36852628d2bc8784796" }, "NickName" : "thacdu321", "Count" : 2, "Date" : "23-09-2017" }
+29 Sep 2017, 12:00:24,765 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd36852628d2bc8784797" }, "NickName" : "thacdu401", "Count" : 1, "Date" : "23-09-2017" }
+29 Sep 2017, 12:00:24,793 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd36852628d2bc8784798" }, "NickName" : "thacdu431", "Count" : 1, "Date" : "23-09-2017" }
+29 Sep 2017, 12:00:24,819 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd36852628d2bc8784799" }, "NickName" : "thacdu451", "Count" : 1, "Date" : "23-09-2017" }
+29 Sep 2017, 12:00:24,845 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd36852628d2bc878479a" }, "NickName" : "thacdu561", "Count" : 1, "Date" : "23-09-2017" }
+29 Sep 2017, 12:00:24,873 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd36852628d2bc878479b" }, "NickName" : "thacdu591", "Count" : 1, "Date" : "23-09-2017" }
+29 Sep 2017, 12:00:24,900 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd36852628d2bc878479c" }, "NickName" : "thacdu761", "Count" : 1, "Date" : "23-09-2017" }
+29 Sep 2017, 12:00:24,925 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd36852628d2bc878479d" }, "NickName" : "thacdu791", "Count" : 2, "Date" : "23-09-2017" }
+29 Sep 2017, 12:00:24,951 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd36852628d2bc878479e" }, "NickName" : "tructxn1", "Count" : 1, "Date" : "23-09-2017" }
+29 Sep 2017, 12:00:24,978 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd36852628d2bc878479f" }, "NickName" : "asaka6868", "Count" : 4, "Date" : "22-09-2017" }
+29 Sep 2017, 12:00:25,005 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd36852628d2bc87847a0" }, "NickName" : "linhhatinh", "Count" : 1, "Date" : "22-09-2017" }
+29 Sep 2017, 12:00:25,031 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd36952628d2bc87847a1" }, "NickName" : "nickdoctor1", "Count" : 1, "Date" : "22-09-2017" }
+29 Sep 2017, 12:00:25,058 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd36952628d2bc87847a2" }, "NickName" : "thacdu101", "Count" : 1, "Date" : "22-09-2017" }
+29 Sep 2017, 12:00:25,084 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd36952628d2bc87847a3" }, "NickName" : "thacdu11", "Count" : 8, "Date" : "22-09-2017" }
+29 Sep 2017, 12:00:25,111 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd36952628d2bc87847a4" }, "NickName" : "thacdu131", "Count" : 2, "Date" : "22-09-2017" }
+29 Sep 2017, 12:00:25,138 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd36952628d2bc87847a5" }, "NickName" : "thacdu141", "Count" : 1, "Date" : "22-09-2017" }
+29 Sep 2017, 12:00:25,164 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd36952628d2bc87847a6" }, "NickName" : "thacdu151", "Count" : 1, "Date" : "22-09-2017" }
+29 Sep 2017, 12:00:25,190 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd36952628d2bc87847a7" }, "NickName" : "thacdu201", "Count" : 1, "Date" : "22-09-2017" }
+29 Sep 2017, 12:00:25,216 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd36952628d2bc87847a8" }, "NickName" : "thacdu21", "Count" : 2, "Date" : "22-09-2017" }
+29 Sep 2017, 12:00:25,245 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd36952628d2bc87847a9" }, "NickName" : "thacdu301", "Count" : 1, "Date" : "22-09-2017" }
+29 Sep 2017, 12:00:25,271 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd36952628d2bc87847aa" }, "NickName" : "tructxn1", "Count" : 12, "Date" : "22-09-2017" }
+29 Sep 2017, 12:00:25,297 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd36952628d2bc87847ab" }, "NickName" : "asaka6868", "Count" : 3, "Date" : "21-09-2017" }
+29 Sep 2017, 12:00:25,324 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd36952628d2bc87847ac" }, "NickName" : "gipvip", "Count" : 5, "Date" : "21-09-2017" }
+29 Sep 2017, 12:00:25,349 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd36952628d2bc87847ad" }, "NickName" : "ikvietnhat1102", "Count" : 10, "Date" : "21-09-2017" }
+29 Sep 2017, 12:00:25,375 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd36952628d2bc87847ae" }, "NickName" : "linhhatinh", "Count" : 11, "Date" : "21-09-2017" }
+29 Sep 2017, 12:00:25,404 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd36952628d2bc87847af" }, "NickName" : "testvnbai121", "Count" : 2, "Date" : "21-09-2017" }
+29 Sep 2017, 12:00:25,430 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd36952628d2bc87847b0" }, "NickName" : "testvnbai231", "Count" : 1, "Date" : "21-09-2017" }
+29 Sep 2017, 12:00:25,457 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd36952628d2bc87847b1" }, "NickName" : "tetsu888", "Count" : 6, "Date" : "21-09-2017" }
+29 Sep 2017, 12:00:25,484 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd36952628d2bc87847b2" }, "NickName" : "thacdu121", "Count" : 9, "Date" : "21-09-2017" }
+29 Sep 2017, 12:00:25,512 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd36952628d2bc87847b3" }, "NickName" : "thacdu201", "Count" : 4, "Date" : "21-09-2017" }
+29 Sep 2017, 12:00:25,539 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd36952628d2bc87847b4" }, "NickName" : "thacdu21", "Count" : 2, "Date" : "21-09-2017" }
+29 Sep 2017, 12:00:25,565 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd36952628d2bc87847b5" }, "NickName" : "thacdu231", "Count" : 1, "Date" : "21-09-2017" }
+29 Sep 2017, 12:00:25,590 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd36952628d2bc87847b6" }, "NickName" : "thacdu301", "Count" : 2, "Date" : "21-09-2017" }
+29 Sep 2017, 12:00:25,616 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd36952628d2bc87847b7" }, "NickName" : "thacdu431", "Count" : 1, "Date" : "21-09-2017" }
+29 Sep 2017, 12:00:25,644 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd36952628d2bc87847b8" }, "NickName" : "thacdu441", "Count" : 1, "Date" : "21-09-2017" }
+29 Sep 2017, 12:00:25,670 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd36952628d2bc87847b9" }, "NickName" : "thacdu461", "Count" : 1, "Date" : "21-09-2017" }
+29 Sep 2017, 12:00:25,695 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd36952628d2bc87847ba" }, "NickName" : "thacdu541", "Count" : 1, "Date" : "21-09-2017" }
+29 Sep 2017, 12:00:25,724 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd36952628d2bc87847bb" }, "NickName" : "thacdu61", "Count" : 1, "Date" : "21-09-2017" }
+29 Sep 2017, 12:00:25,749 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd36952628d2bc87847bc" }, "NickName" : "thacdu651", "Count" : 1, "Date" : "21-09-2017" }
+29 Sep 2017, 12:00:25,775 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd36952628d2bc87847bd" }, "NickName" : "thacdu671", "Count" : 1, "Date" : "21-09-2017" }
+29 Sep 2017, 12:00:25,801 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd36952628d2bc87847be" }, "NickName" : "thacdu971", "Count" : 2, "Date" : "21-09-2017" }
+29 Sep 2017, 12:00:25,827 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd36952628d2bc87847bf" }, "NickName" : "thach125", "Count" : 4, "Date" : "21-09-2017" }
+29 Sep 2017, 12:00:25,854 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd36952628d2bc87847c0" }, "NickName" : "thanbai686868", "Count" : 1, "Date" : "21-09-2017" }
+29 Sep 2017, 12:00:25,881 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd36952628d2bc87847c1" }, "NickName" : "thinhnk", "Count" : 2, "Date" : "21-09-2017" }
+29 Sep 2017, 12:00:25,909 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd36952628d2bc87847c2" }, "NickName" : "tructxn1", "Count" : 6, "Date" : "21-09-2017" }
+29 Sep 2017, 12:00:25,936 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd36952628d2bc87847c3" }, "NickName" : "deptraivl", "Count" : 3, "Date" : "20-09-2017" }
+29 Sep 2017, 12:00:25,962 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd36952628d2bc87847c4" }, "NickName" : "gipvip", "Count" : 1, "Date" : "20-09-2017" }
+29 Sep 2017, 12:00:25,988 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd36952628d2bc87847c5" }, "NickName" : "linhhatinh", "Count" : 4, "Date" : "20-09-2017" }
+29 Sep 2017, 12:00:26,015 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd36952628d2bc87847c6" }, "NickName" : "nickdoctor1", "Count" : 11, "Date" : "20-09-2017" }
+29 Sep 2017, 12:00:26,041 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd36a52628d2bc87847c7" }, "NickName" : "tescaichoinao801", "Count" : 2, "Date" : "20-09-2017" }
+29 Sep 2017, 12:00:26,068 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd36a52628d2bc87847c8" }, "NickName" : "testcaichoinao4", "Count" : 1, "Date" : "20-09-2017" }
+29 Sep 2017, 12:00:26,094 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd36a52628d2bc87847c9" }, "NickName" : "testvnbai11", "Count" : 1, "Date" : "20-09-2017" }
+29 Sep 2017, 12:00:26,119 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd36a52628d2bc87847ca" }, "NickName" : "testvnbai151", "Count" : 1, "Date" : "20-09-2017" }
+29 Sep 2017, 12:00:26,144 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd36a52628d2bc87847cb" }, "NickName" : "testvnbai221", "Count" : 1, "Date" : "20-09-2017" }
+29 Sep 2017, 12:00:26,171 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd36a52628d2bc87847cc" }, "NickName" : "testvnbai241", "Count" : 1, "Date" : "20-09-2017" }
+29 Sep 2017, 12:00:26,198 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd36a52628d2bc87847cd" }, "NickName" : "testvnbai251", "Count" : 1, "Date" : "20-09-2017" }
+29 Sep 2017, 12:00:26,226 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd36a52628d2bc87847ce" }, "NickName" : "testvnbai261", "Count" : 1, "Date" : "20-09-2017" }
+29 Sep 2017, 12:00:26,254 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd36a52628d2bc87847cf" }, "NickName" : "testvnbai31", "Count" : 1, "Date" : "20-09-2017" }
+29 Sep 2017, 12:00:26,280 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd36a52628d2bc87847d0" }, "NickName" : "testvnbai341", "Count" : 2, "Date" : "20-09-2017" }
+29 Sep 2017, 12:00:26,310 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd36a52628d2bc87847d1" }, "NickName" : "testvnbai541", "Count" : 1, "Date" : "20-09-2017" }
+29 Sep 2017, 12:00:26,335 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd36a52628d2bc87847d2" }, "NickName" : "testvnbai61", "Count" : 2, "Date" : "20-09-2017" }
+29 Sep 2017, 12:00:26,359 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd36a52628d2bc87847d3" }, "NickName" : "testvnbai881", "Count" : 1, "Date" : "20-09-2017" }
+29 Sep 2017, 12:00:26,385 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd36a52628d2bc87847d4" }, "NickName" : "testvnbai991", "Count" : 1, "Date" : "20-09-2017" }
+29 Sep 2017, 12:00:26,412 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd36a52628d2bc87847d5" }, "NickName" : "thacdu101", "Count" : 5, "Date" : "20-09-2017" }
+29 Sep 2017, 12:00:26,438 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd36a52628d2bc87847d6" }, "NickName" : "thacdu11", "Count" : 5, "Date" : "20-09-2017" }
+29 Sep 2017, 12:00:26,466 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd36a52628d2bc87847d7" }, "NickName" : "thacdu121", "Count" : 5, "Date" : "20-09-2017" }
+29 Sep 2017, 12:00:26,494 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd36a52628d2bc87847d8" }, "NickName" : "thacdu131", "Count" : 15, "Date" : "20-09-2017" }
+29 Sep 2017, 12:00:26,520 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd36a52628d2bc87847d9" }, "NickName" : "thacdu191", "Count" : 2, "Date" : "20-09-2017" }
+29 Sep 2017, 12:00:26,546 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd36a52628d2bc87847da" }, "NickName" : "thacdu201", "Count" : 5, "Date" : "20-09-2017" }
+29 Sep 2017, 12:00:26,572 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd36a52628d2bc87847db" }, "NickName" : "thacdu231", "Count" : 2, "Date" : "20-09-2017" }
+29 Sep 2017, 12:00:26,598 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd36a52628d2bc87847dc" }, "NickName" : "thacdu241", "Count" : 1, "Date" : "20-09-2017" }
+29 Sep 2017, 12:00:26,626 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd36a52628d2bc87847dd" }, "NickName" : "thacdu301", "Count" : 1, "Date" : "20-09-2017" }
+29 Sep 2017, 12:00:26,652 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd36a52628d2bc87847de" }, "NickName" : "thacdu321", "Count" : 5, "Date" : "20-09-2017" }
+29 Sep 2017, 12:00:26,678 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd36a52628d2bc87847df" }, "NickName" : "thacdu331", "Count" : 1, "Date" : "20-09-2017" }
+29 Sep 2017, 12:00:26,708 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd36a52628d2bc87847e0" }, "NickName" : "thacdu341", "Count" : 1, "Date" : "20-09-2017" }
+29 Sep 2017, 12:00:26,734 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd36a52628d2bc87847e1" }, "NickName" : "thacdu401", "Count" : 4, "Date" : "20-09-2017" }
+29 Sep 2017, 12:00:26,763 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd36a52628d2bc87847e2" }, "NickName" : "thacdu451", "Count" : 4, "Date" : "20-09-2017" }
+29 Sep 2017, 12:00:26,788 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd36a52628d2bc87847e3" }, "NickName" : "thacdu51", "Count" : 1, "Date" : "20-09-2017" }
+29 Sep 2017, 12:00:26,817 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd36a52628d2bc87847e4" }, "NickName" : "thacdu521", "Count" : 1, "Date" : "20-09-2017" }
+29 Sep 2017, 12:00:26,844 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd36a52628d2bc87847e5" }, "NickName" : "thacdu531", "Count" : 1, "Date" : "20-09-2017" }
+29 Sep 2017, 12:00:26,870 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd36a52628d2bc87847e6" }, "NickName" : "thacdu541", "Count" : 1, "Date" : "20-09-2017" }
+29 Sep 2017, 12:00:26,896 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd36a52628d2bc87847e7" }, "NickName" : "thacdu551", "Count" : 1, "Date" : "20-09-2017" }
+29 Sep 2017, 12:00:26,922 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd36a52628d2bc87847e8" }, "NickName" : "thacdu561", "Count" : 2, "Date" : "20-09-2017" }
+29 Sep 2017, 12:00:26,948 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd36a52628d2bc87847e9" }, "NickName" : "thacdu571", "Count" : 1, "Date" : "20-09-2017" }
+29 Sep 2017, 12:00:26,975 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd36a52628d2bc87847ea" }, "NickName" : "thacdu581", "Count" : 1, "Date" : "20-09-2017" }
+29 Sep 2017, 12:00:27,000 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd36a52628d2bc87847eb" }, "NickName" : "thacdu591", "Count" : 1, "Date" : "20-09-2017" }
+29 Sep 2017, 12:00:27,037 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd36b52628d2bc87847ec" }, "NickName" : "thacdu601", "Count" : 1, "Date" : "20-09-2017" }
+29 Sep 2017, 12:00:27,069 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd36b52628d2bc87847ed" }, "NickName" : "thacdu61", "Count" : 1, "Date" : "20-09-2017" }
+29 Sep 2017, 12:00:27,094 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd36b52628d2bc87847ee" }, "NickName" : "thacdu621", "Count" : 1, "Date" : "20-09-2017" }
+29 Sep 2017, 12:00:27,119 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd36b52628d2bc87847ef" }, "NickName" : "thacdu631", "Count" : 1, "Date" : "20-09-2017" }
+29 Sep 2017, 12:00:27,145 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd36b52628d2bc87847f0" }, "NickName" : "thacdu691", "Count" : 4, "Date" : "20-09-2017" }
+29 Sep 2017, 12:00:27,172 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd36b52628d2bc87847f1" }, "NickName" : "thacdu71", "Count" : 3, "Date" : "20-09-2017" }
+29 Sep 2017, 12:00:27,197 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd36b52628d2bc87847f2" }, "NickName" : "thacdu721", "Count" : 1, "Date" : "20-09-2017" }
+29 Sep 2017, 12:00:27,223 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd36b52628d2bc87847f3" }, "NickName" : "thacdu731", "Count" : 1, "Date" : "20-09-2017" }
+29 Sep 2017, 12:00:27,248 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd36b52628d2bc87847f4" }, "NickName" : "thacdu741", "Count" : 1, "Date" : "20-09-2017" }
+29 Sep 2017, 12:00:27,276 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd36b52628d2bc87847f5" }, "NickName" : "thacdu751", "Count" : 1, "Date" : "20-09-2017" }
+29 Sep 2017, 12:00:27,301 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd36b52628d2bc87847f6" }, "NickName" : "thacdu781", "Count" : 4, "Date" : "20-09-2017" }
+29 Sep 2017, 12:00:27,331 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd36b52628d2bc87847f7" }, "NickName" : "thacdu941", "Count" : 2, "Date" : "20-09-2017" }
+29 Sep 2017, 12:00:27,357 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd36b52628d2bc87847f8" }, "NickName" : "thanbai686868", "Count" : 5, "Date" : "20-09-2017" }
+29 Sep 2017, 12:00:27,383 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd36b52628d2bc87847f9" }, "NickName" : "tructxn1", "Count" : 7, "Date" : "20-09-2017" }
+29 Sep 2017, 12:00:27,409 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd36b52628d2bc87847fa" }, "NickName" : "testvnbai101", "Count" : 2, "Date" : "19-09-2017" }
+29 Sep 2017, 12:00:27,435 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd36b52628d2bc87847fb" }, "NickName" : "testvnbai11", "Count" : 6, "Date" : "19-09-2017" }
+29 Sep 2017, 12:00:27,474 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd36b52628d2bc87847fc" }, "NickName" : "testvnbai121", "Count" : 1, "Date" : "19-09-2017" }
+29 Sep 2017, 12:00:27,500 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd36b52628d2bc87847fd" }, "NickName" : "testvnbai141", "Count" : 1, "Date" : "19-09-2017" }
+29 Sep 2017, 12:00:27,527 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd36b52628d2bc87847fe" }, "NickName" : "testvnbai151", "Count" : 1, "Date" : "19-09-2017" }
+29 Sep 2017, 12:00:27,552 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd36b52628d2bc87847ff" }, "NickName" : "testvnbai181", "Count" : 1, "Date" : "19-09-2017" }
+29 Sep 2017, 12:00:27,579 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd36b52628d2bc8784800" }, "NickName" : "testvnbai201", "Count" : 3, "Date" : "19-09-2017" }
+29 Sep 2017, 12:00:27,606 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd36b52628d2bc8784801" }, "NickName" : "testvnbai21", "Count" : 6, "Date" : "19-09-2017" }
+29 Sep 2017, 12:00:27,631 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd36b52628d2bc8784802" }, "NickName" : "testvnbai221", "Count" : 2, "Date" : "19-09-2017" }
+29 Sep 2017, 12:00:27,657 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd36b52628d2bc8784803" }, "NickName" : "testvnbai31", "Count" : 1, "Date" : "19-09-2017" }
+29 Sep 2017, 12:00:27,684 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd36b52628d2bc8784804" }, "NickName" : "testvnbai331", "Count" : 1, "Date" : "19-09-2017" }
+29 Sep 2017, 12:00:27,709 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd36b52628d2bc8784805" }, "NickName" : "testvnbai351", "Count" : 1, "Date" : "19-09-2017" }
+29 Sep 2017, 12:00:27,736 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd36b52628d2bc8784806" }, "NickName" : "testvnbai771", "Count" : 2, "Date" : "19-09-2017" }
+29 Sep 2017, 12:00:27,761 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd36b52628d2bc8784807" }, "NickName" : "thacdu101", "Count" : 1, "Date" : "19-09-2017" }
+29 Sep 2017, 12:00:27,787 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd36b52628d2bc8784808" }, "NickName" : "thacdu11", "Count" : 7, "Date" : "19-09-2017" }
+29 Sep 2017, 12:00:27,812 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd36b52628d2bc8784809" }, "NickName" : "thacdu121", "Count" : 2, "Date" : "19-09-2017" }
+29 Sep 2017, 12:00:27,841 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd36b52628d2bc878480a" }, "NickName" : "thacdu131", "Count" : 4, "Date" : "19-09-2017" }
+29 Sep 2017, 12:00:27,867 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd36b52628d2bc878480b" }, "NickName" : "thacdu141", "Count" : 1, "Date" : "19-09-2017" }
+29 Sep 2017, 12:00:27,894 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd36b52628d2bc878480c" }, "NickName" : "thacdu201", "Count" : 5, "Date" : "19-09-2017" }
+29 Sep 2017, 12:00:27,922 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd36b52628d2bc878480d" }, "NickName" : "thacdu21", "Count" : 1, "Date" : "19-09-2017" }
+29 Sep 2017, 12:00:27,948 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd36b52628d2bc878480e" }, "NickName" : "thacdu301", "Count" : 1, "Date" : "19-09-2017" }
+29 Sep 2017, 12:00:27,977 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd36b52628d2bc878480f" }, "NickName" : "thacdu331", "Count" : 1, "Date" : "19-09-2017" }
+29 Sep 2017, 12:00:28,002 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd36b52628d2bc8784810" }, "NickName" : "thacdu381", "Count" : 1, "Date" : "19-09-2017" }
+29 Sep 2017, 12:00:28,028 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd36c52628d2bc8784811" }, "NickName" : "thacdu391", "Count" : 1, "Date" : "19-09-2017" }
+29 Sep 2017, 12:00:28,055 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd36c52628d2bc8784812" }, "NickName" : "thacdu421", "Count" : 1, "Date" : "19-09-2017" }
+29 Sep 2017, 12:00:28,081 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd36c52628d2bc8784813" }, "NickName" : "thacdu431", "Count" : 1, "Date" : "19-09-2017" }
+29 Sep 2017, 12:00:28,107 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd36c52628d2bc8784814" }, "NickName" : "thacdu451", "Count" : 1, "Date" : "19-09-2017" }
+29 Sep 2017, 12:00:28,133 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd36c52628d2bc8784815" }, "NickName" : "thacdu491", "Count" : 1, "Date" : "19-09-2017" }
+29 Sep 2017, 12:00:28,159 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd36c52628d2bc8784816" }, "NickName" : "thacdu541", "Count" : 1, "Date" : "19-09-2017" }
+29 Sep 2017, 12:00:28,185 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd36c52628d2bc8784817" }, "NickName" : "thacdu591", "Count" : 2, "Date" : "19-09-2017" }
+29 Sep 2017, 12:00:28,210 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd36c52628d2bc8784818" }, "NickName" : "thacdu651", "Count" : 2, "Date" : "19-09-2017" }
+29 Sep 2017, 12:00:28,236 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd36c52628d2bc8784819" }, "NickName" : "thacdu661", "Count" : 1, "Date" : "19-09-2017" }
+29 Sep 2017, 12:00:28,263 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd36c52628d2bc878481a" }, "NickName" : "thacdu821", "Count" : 1, "Date" : "19-09-2017" }
+29 Sep 2017, 12:00:28,289 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd36c52628d2bc878481b" }, "NickName" : "thacdu841", "Count" : 2, "Date" : "19-09-2017" }
+29 Sep 2017, 12:00:28,315 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd36c52628d2bc878481c" }, "NickName" : "thacdu851", "Count" : 1, "Date" : "19-09-2017" }
+29 Sep 2017, 12:00:28,341 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd36c52628d2bc878481d" }, "NickName" : "thacdu921", "Count" : 1, "Date" : "19-09-2017" }
+29 Sep 2017, 12:00:28,366 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd36c52628d2bc878481e" }, "NickName" : "thacdu931", "Count" : 3, "Date" : "19-09-2017" }
+29 Sep 2017, 12:00:28,393 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd36c52628d2bc878481f" }, "NickName" : "thacdu941", "Count" : 1, "Date" : "19-09-2017" }
+29 Sep 2017, 12:00:28,418 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd36c52628d2bc8784820" }, "NickName" : "thacdu951", "Count" : 1, "Date" : "19-09-2017" }
+29 Sep 2017, 12:00:28,459 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd36c52628d2bc8784821" }, "NickName" : "tructxn1", "Count" : 5, "Date" : "19-09-2017" }
+29 Sep 2017, 12:00:28,485 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd36c52628d2bc8784822" }, "NickName" : "thacdu101", "Count" : 7, "Date" : "18-09-2017" }
+29 Sep 2017, 12:00:28,512 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd36c52628d2bc8784823" }, "NickName" : "thacdu11", "Count" : 11, "Date" : "18-09-2017" }
+29 Sep 2017, 12:00:28,538 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd36c52628d2bc8784824" }, "NickName" : "thacdu121", "Count" : 5, "Date" : "18-09-2017" }
+29 Sep 2017, 12:00:28,567 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd36c52628d2bc8784825" }, "NickName" : "thacdu131", "Count" : 4, "Date" : "18-09-2017" }
+29 Sep 2017, 12:00:28,594 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd36c52628d2bc8784826" }, "NickName" : "thacdu201", "Count" : 2, "Date" : "18-09-2017" }
+29 Sep 2017, 12:00:28,627 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd36c52628d2bc8784827" }, "NickName" : "thacdu21", "Count" : 4, "Date" : "18-09-2017" }
+29 Sep 2017, 12:00:28,654 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd36c52628d2bc8784828" }, "NickName" : "thacdu221", "Count" : 1, "Date" : "18-09-2017" }
+29 Sep 2017, 12:00:28,680 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd36c52628d2bc8784829" }, "NickName" : "thacdu231", "Count" : 1, "Date" : "18-09-2017" }
+29 Sep 2017, 12:00:28,706 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd36c52628d2bc878482a" }, "NickName" : "thacdu261", "Count" : 1, "Date" : "18-09-2017" }
+29 Sep 2017, 12:00:28,732 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd36c52628d2bc878482b" }, "NickName" : "thacdu281", "Count" : 1, "Date" : "18-09-2017" }
+29 Sep 2017, 12:00:28,756 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd36c52628d2bc878482c" }, "NickName" : "thacdu31", "Count" : 1, "Date" : "18-09-2017" }
+29 Sep 2017, 12:00:28,783 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd36c52628d2bc878482d" }, "NickName" : "thacdu321", "Count" : 1, "Date" : "18-09-2017" }
+29 Sep 2017, 12:00:28,809 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd36c52628d2bc878482e" }, "NickName" : "thacdu331", "Count" : 3, "Date" : "18-09-2017" }
+29 Sep 2017, 12:00:28,836 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd36c52628d2bc878482f" }, "NickName" : "thacdu341", "Count" : 2, "Date" : "18-09-2017" }
+29 Sep 2017, 12:00:28,861 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd36c52628d2bc8784830" }, "NickName" : "thacdu431", "Count" : 3, "Date" : "18-09-2017" }
+29 Sep 2017, 12:00:28,887 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd36c52628d2bc8784831" }, "NickName" : "thacdu561", "Count" : 1, "Date" : "18-09-2017" }
+29 Sep 2017, 12:00:28,914 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd36c52628d2bc8784832" }, "NickName" : "thacdu61", "Count" : 2, "Date" : "18-09-2017" }
+29 Sep 2017, 12:00:28,944 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd36c52628d2bc8784833" }, "NickName" : "thacdu671", "Count" : 1, "Date" : "18-09-2017" }
+29 Sep 2017, 12:00:28,973 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd36c52628d2bc8784834" }, "NickName" : "thacdu681", "Count" : 1, "Date" : "18-09-2017" }
+29 Sep 2017, 12:00:29,003 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd36c52628d2bc8784835" }, "NickName" : "thacdu741", "Count" : 1, "Date" : "18-09-2017" }
+29 Sep 2017, 12:00:29,030 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd36d52628d2bc8784836" }, "NickName" : "thacdu791", "Count" : 1, "Date" : "18-09-2017" }
+29 Sep 2017, 12:00:29,055 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd36d52628d2bc8784837" }, "NickName" : "thacdu81", "Count" : 1, "Date" : "18-09-2017" }
+29 Sep 2017, 12:00:29,082 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd36d52628d2bc8784838" }, "NickName" : "thacdu821", "Count" : 4, "Date" : "18-09-2017" }
+29 Sep 2017, 12:00:29,108 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd36d52628d2bc8784839" }, "NickName" : "thacdu831", "Count" : 2, "Date" : "18-09-2017" }
+29 Sep 2017, 12:00:29,135 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd36d52628d2bc878483a" }, "NickName" : "thacdu841", "Count" : 1, "Date" : "18-09-2017" }
+29 Sep 2017, 12:00:29,161 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd36d52628d2bc878483b" }, "NickName" : "thacdu101", "Count" : 5, "Date" : "17-09-2017" }
+29 Sep 2017, 12:00:29,187 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd36d52628d2bc878483c" }, "NickName" : "thacdu11", "Count" : 10, "Date" : "17-09-2017" }
+29 Sep 2017, 12:00:29,212 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd36d52628d2bc878483d" }, "NickName" : "thacdu121", "Count" : 3, "Date" : "17-09-2017" }
+29 Sep 2017, 12:00:29,240 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd36d52628d2bc878483e" }, "NickName" : "thacdu131", "Count" : 11, "Date" : "17-09-2017" }
+29 Sep 2017, 12:00:29,267 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd36d52628d2bc878483f" }, "NickName" : "thacdu141", "Count" : 5, "Date" : "17-09-2017" }
+29 Sep 2017, 12:00:29,294 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd36d52628d2bc8784840" }, "NickName" : "thacdu201", "Count" : 1, "Date" : "17-09-2017" }
+29 Sep 2017, 12:00:29,319 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd36d52628d2bc8784841" }, "NickName" : "thacdu21", "Count" : 1, "Date" : "17-09-2017" }
+29 Sep 2017, 12:00:29,345 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd36d52628d2bc8784842" }, "NickName" : "thacdu301", "Count" : 1, "Date" : "17-09-2017" }
+29 Sep 2017, 12:00:29,371 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd36d52628d2bc8784843" }, "NickName" : "thacdu31", "Count" : 1, "Date" : "17-09-2017" }
+29 Sep 2017, 12:00:29,398 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd36d52628d2bc8784844" }, "NickName" : "thacdu101", "Count" : 4, "Date" : "16-09-2017" }
+29 Sep 2017, 12:00:29,423 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd36d52628d2bc8784845" }, "NickName" : "thacdu11", "Count" : 4, "Date" : "16-09-2017" }
+29 Sep 2017, 12:00:29,449 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd36d52628d2bc8784846" }, "NickName" : "thacdu121", "Count" : 2, "Date" : "16-09-2017" }
+29 Sep 2017, 12:00:29,475 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd36d52628d2bc8784847" }, "NickName" : "thacdu131", "Count" : 2, "Date" : "16-09-2017" }
+29 Sep 2017, 12:00:29,501 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd36d52628d2bc8784848" }, "NickName" : "thacdu141", "Count" : 2, "Date" : "16-09-2017" }
+29 Sep 2017, 12:00:29,526 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd36d52628d2bc8784849" }, "NickName" : "thacdu151", "Count" : 1, "Date" : "16-09-2017" }
+29 Sep 2017, 12:00:29,552 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd36d52628d2bc878484a" }, "NickName" : "thacdu191", "Count" : 1, "Date" : "16-09-2017" }
+29 Sep 2017, 12:00:29,579 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd36d52628d2bc878484b" }, "NickName" : "thacdu21", "Count" : 2, "Date" : "16-09-2017" }
+29 Sep 2017, 12:00:29,605 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd36d52628d2bc878484c" }, "NickName" : "thacdu221", "Count" : 1, "Date" : "16-09-2017" }
+29 Sep 2017, 12:00:29,632 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd36d52628d2bc878484d" }, "NickName" : "thacdu31", "Count" : 3, "Date" : "16-09-2017" }
+29 Sep 2017, 12:00:29,658 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd36d52628d2bc878484e" }, "NickName" : "thacdu401", "Count" : 1, "Date" : "16-09-2017" }
+29 Sep 2017, 12:00:29,688 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd36d52628d2bc878484f" }, "NickName" : "thacdu41", "Count" : 1, "Date" : "16-09-2017" }
+29 Sep 2017, 12:00:29,715 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd36d52628d2bc8784850" }, "NickName" : "thacdu881", "Count" : 1, "Date" : "16-09-2017" }
+29 Sep 2017, 12:00:29,741 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd36d52628d2bc8784851" }, "NickName" : "thacdu101", "Count" : 2, "Date" : "15-09-2017" }
+29 Sep 2017, 12:00:29,767 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd36d52628d2bc8784852" }, "NickName" : "thacdu11", "Count" : 1, "Date" : "15-09-2017" }
+29 Sep 2017, 12:00:29,792 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd36d52628d2bc8784853" }, "NickName" : "thacdu131", "Count" : 1, "Date" : "15-09-2017" }
+29 Sep 2017, 12:00:29,819 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd36d52628d2bc8784854" }, "NickName" : "thacdu181", "Count" : 1, "Date" : "15-09-2017" }
+29 Sep 2017, 12:00:29,845 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd36d52628d2bc8784855" }, "NickName" : "thacdu21", "Count" : 1, "Date" : "15-09-2017" }
+29 Sep 2017, 12:00:29,871 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd36d52628d2bc8784856" }, "NickName" : "thacdu451", "Count" : 3, "Date" : "15-09-2017" }
+29 Sep 2017, 12:00:29,897 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd36d52628d2bc8784857" }, "NickName" : "tructxn1", "Count" : 16, "Date" : "15-09-2017" }
+29 Sep 2017, 12:00:29,924 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd36d52628d2bc8784858" }, "NickName" : "thacdu121", "Count" : 1, "Date" : "14-09-2017" }
+29 Sep 2017, 12:00:29,950 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd36d52628d2bc8784859" }, "NickName" : "thacdu11", "Count" : 28, "Date" : "06-09-2017" }
+29 Sep 2017, 12:00:29,976 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd36d52628d2bc878485a" }, "NickName" : "thacdu121", "Count" : 2, "Date" : "06-09-2017" }
+29 Sep 2017, 12:00:30,002 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd36d52628d2bc878485b" }, "NickName" : "thacdu21", "Count" : 3, "Date" : "06-09-2017" }
+29 Sep 2017, 12:00:30,028 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd36e52628d2bc878485c" }, "NickName" : "thacdu11", "Count" : 11, "Date" : "05-09-2017" }
+29 Sep 2017, 12:00:30,054 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd36e52628d2bc878485d" }, "NickName" : "thacdu21", "Count" : 8, "Date" : "05-09-2017" }
+29 Sep 2017, 12:00:30,080 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd36e52628d2bc878485e" }, "NickName" : "tructxn1", "Count" : 3, "Date" : "05-09-2017" }
+29 Sep 2017, 12:00:30,106 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd36e52628d2bc878485f" }, "NickName" : "thacdu01", "Count" : 2, "Date" : "04-09-2017" }
+29 Sep 2017, 12:00:30,131 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd36e52628d2bc8784860" }, "NickName" : "thacdu11", "Count" : 14, "Date" : "04-09-2017" }
+29 Sep 2017, 12:00:30,160 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd36e52628d2bc8784861" }, "NickName" : "thacdu21", "Count" : 4, "Date" : "04-09-2017" }
+29 Sep 2017, 12:00:30,193 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd36e52628d2bc8784862" }, "NickName" : "thacdu31", "Count" : 2, "Date" : "04-09-2017" }
+29 Sep 2017, 12:00:30,218 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd36e52628d2bc8784863" }, "NickName" : "thacdu41", "Count" : 1, "Date" : "04-09-2017" }
+29 Sep 2017, 12:00:30,246 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd36e52628d2bc8784864" }, "NickName" : "thacdu51", "Count" : 4, "Date" : "04-09-2017" }
+29 Sep 2017, 12:00:30,277 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd36e52628d2bc8784865" }, "NickName" : "thacdu61", "Count" : 1, "Date" : "04-09-2017" }
+29 Sep 2017, 12:00:30,302 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd36e52628d2bc8784866" }, "NickName" : "thacdu991", "Count" : 1, "Date" : "04-09-2017" }
+29 Sep 2017, 12:00:30,328 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd36e52628d2bc8784867" }, "NickName" : "thacdu01", "Count" : 21, "Date" : "03-09-2017" }
+29 Sep 2017, 12:00:30,353 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd36e52628d2bc8784868" }, "NickName" : "thacdu11", "Count" : 35, "Date" : "03-09-2017" }
+29 Sep 2017, 12:00:30,379 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd36e52628d2bc8784869" }, "NickName" : "thacdu31", "Count" : 2, "Date" : "03-09-2017" }
+29 Sep 2017, 12:00:30,405 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd36e52628d2bc878486a" }, "NickName" : "thacdu991", "Count" : 1, "Date" : "03-09-2017" }
+29 Sep 2017, 12:00:30,434 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd36e52628d2bc878486b" }, "NickName" : "thinhnk", "Count" : 26, "Date" : "03-09-2017" }
+29 Sep 2017, 12:00:30,459 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd36e52628d2bc878486c" }, "NickName" : "tructxn1", "Count" : 8, "Date" : "03-09-2017" }
+29 Sep 2017, 12:00:30,486 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd36e52628d2bc878486d" }, "NickName" : "thinhnk", "Count" : 1, "Date" : "02-09-2017" }
+29 Sep 2017, 12:00:30,512 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd36e52628d2bc878486e" }, "NickName" : "tructxn1", "Count" : 4, "Date" : "02-09-2017" }
+29 Sep 2017, 12:12:06,016 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd62552628d1228245471" }, "NickName" : "tructxn1", "Count" : 1, "Date" : "31-08-2017", "Time" : "03:01:18" }
+29 Sep 2017, 12:12:06,039 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd62652628d1228245472" }, "NickName" : "thacdu201", "Count" : 2, "Date" : "29-09-2017", "Time" : "11:18:09" }
+29 Sep 2017, 12:12:06,063 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd62652628d1228245473" }, "NickName" : "tructxn1", "Count" : 1, "Date" : "28-09-2017", "Time" : "06:23:41" }
+29 Sep 2017, 12:12:06,086 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd62652628d1228245474" }, "NickName" : "12344444444", "Count" : 1, "Date" : "27-09-2017", "Time" : "11:38:06" }
+29 Sep 2017, 12:12:06,109 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd62652628d1228245475" }, "NickName" : "1234567890b", "Count" : 1, "Date" : "27-09-2017", "Time" : "09:03:39" }
+29 Sep 2017, 12:12:06,132 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd62652628d1228245476" }, "NickName" : "abccccccc", "Count" : 4, "Date" : "27-09-2017", "Time" : "06:55:51" }
+29 Sep 2017, 12:12:06,154 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd62652628d1228245477" }, "NickName" : "lalala", "Count" : 1, "Date" : "27-09-2017", "Time" : "10:46:12" }
+29 Sep 2017, 12:12:06,178 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd62652628d1228245478" }, "NickName" : "testvnbai11", "Count" : 2, "Date" : "27-09-2017", "Time" : "02:28:16" }
+29 Sep 2017, 12:12:06,200 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd62652628d1228245479" }, "NickName" : "testvnbai21", "Count" : 1, "Date" : "27-09-2017", "Time" : "12:02:11" }
+29 Sep 2017, 12:12:06,235 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd62652628d122824547a" }, "NickName" : "testvnbai221", "Count" : 1, "Date" : "27-09-2017", "Time" : "09:35:52" }
+29 Sep 2017, 12:12:06,259 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd62652628d122824547b" }, "NickName" : "thacdu121", "Count" : 7, "Date" : "27-09-2017", "Time" : "10:49:14" }
+29 Sep 2017, 12:12:06,284 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd62652628d122824547c" }, "NickName" : "thacdu131", "Count" : 1, "Date" : "27-09-2017", "Time" : "08:57:02" }
+29 Sep 2017, 12:12:06,308 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd62652628d122824547d" }, "NickName" : "thacdu201", "Count" : 2, "Date" : "27-09-2017", "Time" : "09:02:22" }
+29 Sep 2017, 12:12:06,332 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd62652628d122824547e" }, "NickName" : "thacdu21", "Count" : 2, "Date" : "27-09-2017", "Time" : "12:06:43" }
+29 Sep 2017, 12:12:06,359 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd62652628d122824547f" }, "NickName" : "thacdu231", "Count" : 1, "Date" : "27-09-2017", "Time" : "11:34:57" }
+29 Sep 2017, 12:12:06,383 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd62652628d1228245480" }, "NickName" : "thacdu301", "Count" : 1, "Date" : "27-09-2017", "Time" : "11:44:14" }
+29 Sep 2017, 12:12:06,407 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd62652628d1228245481" }, "NickName" : "thacdu321", "Count" : 1, "Date" : "27-09-2017", "Time" : "01:31:25" }
+29 Sep 2017, 12:12:06,431 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd62652628d1228245482" }, "NickName" : "thacdu431", "Count" : 1, "Date" : "27-09-2017", "Time" : "12:05:13" }
+29 Sep 2017, 12:12:06,456 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd62652628d1228245483" }, "NickName" : "thacdu571", "Count" : 1, "Date" : "27-09-2017", "Time" : "06:19:11" }
+29 Sep 2017, 12:12:06,481 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd62652628d1228245484" }, "NickName" : "thacdu871", "Count" : 1, "Date" : "27-09-2017", "Time" : "04:23:55" }
+29 Sep 2017, 12:12:06,505 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd62652628d1228245485" }, "NickName" : "thacdu981", "Count" : 1, "Date" : "27-09-2017", "Time" : "10:22:31" }
+29 Sep 2017, 12:12:06,529 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd62652628d1228245486" }, "NickName" : "thinhnk", "Count" : 2, "Date" : "27-09-2017", "Time" : "06:54:57" }
+29 Sep 2017, 12:12:06,553 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd62652628d1228245487" }, "NickName" : "tructxn1", "Count" : 5, "Date" : "27-09-2017", "Time" : "11:38:36" }
+29 Sep 2017, 12:12:06,577 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd62652628d1228245488" }, "NickName" : "zezeze11", "Count" : 2, "Date" : "27-09-2017", "Time" : "10:40:10" }
+29 Sep 2017, 12:12:06,600 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd62652628d1228245489" }, "NickName" : "zozozo", "Count" : 5, "Date" : "27-09-2017", "Time" : "10:42:11" }
+29 Sep 2017, 12:12:06,623 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd62652628d122824548a" }, "NickName" : "nickdoctor1", "Count" : 4, "Date" : "26-09-2017", "Time" : "10:14:28" }
+29 Sep 2017, 12:12:06,647 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd62652628d122824548b" }, "NickName" : "testvnbai21", "Count" : 2, "Date" : "26-09-2017", "Time" : "10:57:33" }
+29 Sep 2017, 12:12:06,671 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd62652628d122824548c" }, "NickName" : "testvnbai41", "Count" : 1, "Date" : "26-09-2017", "Time" : "09:28:12" }
+29 Sep 2017, 12:12:06,696 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd62652628d122824548d" }, "NickName" : "thacdu121", "Count" : 7, "Date" : "26-09-2017", "Time" : "11:53:12" }
+29 Sep 2017, 12:12:06,720 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd62652628d122824548e" }, "NickName" : "thacdu131", "Count" : 6, "Date" : "26-09-2017", "Time" : "10:46:14" }
+29 Sep 2017, 12:12:06,744 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd62652628d122824548f" }, "NickName" : "thacdu141", "Count" : 1, "Date" : "26-09-2017", "Time" : "09:21:29" }
+29 Sep 2017, 12:12:06,769 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd62652628d1228245490" }, "NickName" : "thacdu201", "Count" : 2, "Date" : "26-09-2017", "Time" : "09:50:49" }
+29 Sep 2017, 12:12:06,793 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd62652628d1228245491" }, "NickName" : "thacdu21", "Count" : 3, "Date" : "26-09-2017", "Time" : "11:31:11" }
+29 Sep 2017, 12:12:06,817 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd62652628d1228245492" }, "NickName" : "thacdu301", "Count" : 2, "Date" : "26-09-2017", "Time" : "10:47:51" }
+29 Sep 2017, 12:12:06,841 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd62652628d1228245493" }, "NickName" : "thacdu31", "Count" : 1, "Date" : "26-09-2017", "Time" : "09:44:29" }
+29 Sep 2017, 12:12:06,865 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd62652628d1228245494" }, "NickName" : "tructxn1", "Count" : 4, "Date" : "26-09-2017", "Time" : "01:55:16" }
+29 Sep 2017, 12:12:06,889 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd62652628d1228245495" }, "NickName" : "nickdoctor1", "Count" : 1, "Date" : "25-09-2017", "Time" : "08:36:04" }
+29 Sep 2017, 12:12:06,913 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd62652628d1228245496" }, "NickName" : "testvnbai11", "Count" : 1, "Date" : "25-09-2017", "Time" : "10:13:31" }
+29 Sep 2017, 12:12:06,939 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd62652628d1228245497" }, "NickName" : "thacdu11", "Count" : 4, "Date" : "25-09-2017", "Time" : "08:44:07" }
+29 Sep 2017, 12:12:06,963 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd62652628d1228245498" }, "NickName" : "thacdu121", "Count" : 5, "Date" : "25-09-2017", "Time" : "11:50:56" }
+29 Sep 2017, 12:12:06,987 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd62652628d1228245499" }, "NickName" : "thacdu131", "Count" : 2, "Date" : "25-09-2017", "Time" : "10:30:53" }
+29 Sep 2017, 12:12:07,011 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd62652628d122824549a" }, "NickName" : "thacdu201", "Count" : 1, "Date" : "25-09-2017", "Time" : "09:31:57" }
+29 Sep 2017, 12:12:07,034 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd62752628d122824549b" }, "NickName" : "thacdu301", "Count" : 3, "Date" : "25-09-2017", "Time" : "11:33:42" }
+29 Sep 2017, 12:12:07,059 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd62752628d122824549c" }, "NickName" : "thacdu31", "Count" : 2, "Date" : "25-09-2017", "Time" : "10:06:45" }
+29 Sep 2017, 12:12:07,083 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd62752628d122824549d" }, "NickName" : "thacdu41", "Count" : 1, "Date" : "25-09-2017", "Time" : "09:48:07" }
+29 Sep 2017, 12:12:07,107 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd62752628d122824549e" }, "NickName" : "thacdu431", "Count" : 1, "Date" : "25-09-2017", "Time" : "01:07:16" }
+29 Sep 2017, 12:12:07,132 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd62752628d122824549f" }, "NickName" : "thacdu491", "Count" : 1, "Date" : "25-09-2017", "Time" : "01:15:46" }
+29 Sep 2017, 12:12:07,156 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd62752628d12282454a0" }, "NickName" : "thacdu541", "Count" : 3, "Date" : "25-09-2017", "Time" : "01:58:58" }
+29 Sep 2017, 12:12:07,183 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd62752628d12282454a1" }, "NickName" : "thacdu561", "Count" : 2, "Date" : "25-09-2017", "Time" : "01:56:25" }
+29 Sep 2017, 12:12:07,206 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd62752628d12282454a2" }, "NickName" : "thacdu591", "Count" : 2, "Date" : "25-09-2017", "Time" : "02:24:29" }
+29 Sep 2017, 12:12:07,232 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd62752628d12282454a3" }, "NickName" : "thacdu781", "Count" : 2, "Date" : "25-09-2017", "Time" : "02:23:17" }
+29 Sep 2017, 12:12:07,256 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd62752628d12282454a4" }, "NickName" : "thacdu851", "Count" : 1, "Date" : "25-09-2017", "Time" : "03:42:16" }
+29 Sep 2017, 12:12:07,286 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd62752628d12282454a5" }, "NickName" : "thacdu921", "Count" : 1, "Date" : "25-09-2017", "Time" : "04:57:57" }
+29 Sep 2017, 12:12:07,309 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd62752628d12282454a6" }, "NickName" : "thinhnk", "Count" : 3, "Date" : "25-09-2017", "Time" : "02:30:24" }
+29 Sep 2017, 12:12:07,332 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd62752628d12282454a7" }, "NickName" : "tructxn1", "Count" : 21, "Date" : "25-09-2017", "Time" : "08:47:53" }
+29 Sep 2017, 12:12:07,357 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd62752628d12282454a8" }, "NickName" : "thacdu201", "Count" : 2, "Date" : "24-09-2017", "Time" : "05:05:57" }
+29 Sep 2017, 12:12:07,380 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd62752628d12282454a9" }, "NickName" : "thacdu301", "Count" : 2, "Date" : "24-09-2017", "Time" : "03:04:26" }
+29 Sep 2017, 12:12:07,404 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd62752628d12282454aa" }, "NickName" : "thacdu41", "Count" : 1, "Date" : "24-09-2017", "Time" : "04:10:51" }
+29 Sep 2017, 12:12:07,427 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd62752628d12282454ab" }, "NickName" : "nickdoctor1", "Count" : 1, "Date" : "23-09-2017", "Time" : "04:41:52" }
+29 Sep 2017, 12:12:07,450 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd62752628d12282454ac" }, "NickName" : "testvnbai11", "Count" : 2, "Date" : "23-09-2017", "Time" : "10:55:13" }
+29 Sep 2017, 12:12:07,475 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd62752628d12282454ad" }, "NickName" : "testvnbai21", "Count" : 2, "Date" : "23-09-2017", "Time" : "11:02:09" }
+29 Sep 2017, 12:12:07,498 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd62752628d12282454ae" }, "NickName" : "thacdu11", "Count" : 3, "Date" : "23-09-2017", "Time" : "11:44:12" }
+29 Sep 2017, 12:12:07,523 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd62752628d12282454af" }, "NickName" : "thacdu121", "Count" : 5, "Date" : "23-09-2017", "Time" : "06:10:37" }
+29 Sep 2017, 12:12:07,547 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd62752628d12282454b0" }, "NickName" : "thacdu131", "Count" : 10, "Date" : "23-09-2017", "Time" : "06:31:31" }
+29 Sep 2017, 12:12:07,570 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd62752628d12282454b1" }, "NickName" : "thacdu141", "Count" : 1, "Date" : "23-09-2017", "Time" : "06:06:52" }
+29 Sep 2017, 12:12:07,593 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd62752628d12282454b2" }, "NickName" : "thacdu201", "Count" : 4, "Date" : "23-09-2017", "Time" : "05:00:39" }
+29 Sep 2017, 12:12:07,618 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd62752628d12282454b3" }, "NickName" : "thacdu21", "Count" : 2, "Date" : "23-09-2017", "Time" : "07:17:21" }
+29 Sep 2017, 12:12:07,642 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd62752628d12282454b4" }, "NickName" : "thacdu231", "Count" : 1, "Date" : "23-09-2017", "Time" : "10:41:27" }
+29 Sep 2017, 12:12:07,664 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd62752628d12282454b5" }, "NickName" : "thacdu301", "Count" : 8, "Date" : "23-09-2017", "Time" : "05:00:44" }
+29 Sep 2017, 12:12:07,687 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd62752628d12282454b6" }, "NickName" : "thacdu31", "Count" : 3, "Date" : "23-09-2017", "Time" : "05:33:47" }
+29 Sep 2017, 12:12:07,720 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd62752628d12282454b7" }, "NickName" : "thacdu321", "Count" : 2, "Date" : "23-09-2017", "Time" : "03:20:35" }
+29 Sep 2017, 12:12:07,744 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd62752628d12282454b8" }, "NickName" : "thacdu401", "Count" : 1, "Date" : "23-09-2017", "Time" : "05:56:37" }
+29 Sep 2017, 12:12:07,767 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd62752628d12282454b9" }, "NickName" : "thacdu431", "Count" : 1, "Date" : "23-09-2017", "Time" : "12:22:20" }
+29 Sep 2017, 12:12:07,790 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd62752628d12282454ba" }, "NickName" : "thacdu451", "Count" : 1, "Date" : "23-09-2017", "Time" : "02:53:51" }
+29 Sep 2017, 12:12:07,813 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd62752628d12282454bb" }, "NickName" : "thacdu561", "Count" : 1, "Date" : "23-09-2017", "Time" : "12:00:45" }
+29 Sep 2017, 12:12:07,838 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd62752628d12282454bc" }, "NickName" : "thacdu591", "Count" : 1, "Date" : "23-09-2017", "Time" : "12:05:40" }
+29 Sep 2017, 12:12:07,861 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd62752628d12282454bd" }, "NickName" : "thacdu761", "Count" : 1, "Date" : "23-09-2017", "Time" : "01:47:52" }
+29 Sep 2017, 12:12:07,885 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd62752628d12282454be" }, "NickName" : "thacdu791", "Count" : 2, "Date" : "23-09-2017", "Time" : "01:46:37" }
+29 Sep 2017, 12:12:07,909 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd62752628d12282454bf" }, "NickName" : "tructxn1", "Count" : 1, "Date" : "23-09-2017", "Time" : "12:41:45" }
+29 Sep 2017, 12:12:07,932 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd62752628d12282454c0" }, "NickName" : "asaka6868", "Count" : 4, "Date" : "22-09-2017", "Time" : "07:20:53" }
+29 Sep 2017, 12:12:07,955 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd62752628d12282454c1" }, "NickName" : "linhhatinh", "Count" : 1, "Date" : "22-09-2017", "Time" : "09:34:25" }
+29 Sep 2017, 12:12:07,979 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd62752628d12282454c2" }, "NickName" : "nickdoctor1", "Count" : 1, "Date" : "22-09-2017", "Time" : "11:58:30" }
+29 Sep 2017, 12:12:08,003 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd62752628d12282454c3" }, "NickName" : "thacdu101", "Count" : 1, "Date" : "22-09-2017", "Time" : "08:15:23" }
+29 Sep 2017, 12:12:08,026 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd62852628d12282454c4" }, "NickName" : "thacdu11", "Count" : 8, "Date" : "22-09-2017", "Time" : "10:20:46" }
+29 Sep 2017, 12:12:08,052 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd62852628d12282454c5" }, "NickName" : "thacdu131", "Count" : 2, "Date" : "22-09-2017", "Time" : "10:48:25" }
+29 Sep 2017, 12:12:08,075 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd62852628d12282454c6" }, "NickName" : "thacdu141", "Count" : 1, "Date" : "22-09-2017", "Time" : "09:42:48" }
+29 Sep 2017, 12:12:08,099 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd62852628d12282454c7" }, "NickName" : "thacdu151", "Count" : 1, "Date" : "22-09-2017", "Time" : "11:12:26" }
+29 Sep 2017, 12:12:08,121 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd62852628d12282454c8" }, "NickName" : "thacdu201", "Count" : 1, "Date" : "22-09-2017", "Time" : "09:15:24" }
+29 Sep 2017, 12:12:08,145 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd62852628d12282454c9" }, "NickName" : "thacdu21", "Count" : 2, "Date" : "22-09-2017", "Time" : "10:28:26" }
+29 Sep 2017, 12:12:08,169 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd62852628d12282454ca" }, "NickName" : "thacdu301", "Count" : 1, "Date" : "22-09-2017", "Time" : "09:20:36" }
+29 Sep 2017, 12:12:08,192 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd62852628d12282454cb" }, "NickName" : "tructxn1", "Count" : 12, "Date" : "22-09-2017", "Time" : "03:56:45" }
+29 Sep 2017, 12:12:08,216 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd62852628d12282454cc" }, "NickName" : "asaka6868", "Count" : 3, "Date" : "21-09-2017", "Time" : "12:42:54" }
+29 Sep 2017, 12:12:08,238 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd62852628d12282454cd" }, "NickName" : "gipvip", "Count" : 5, "Date" : "21-09-2017", "Time" : "01:37:39" }
+29 Sep 2017, 12:12:08,263 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd62852628d12282454ce" }, "NickName" : "ikvietnhat1102", "Count" : 10, "Date" : "21-09-2017", "Time" : "11:08:25" }
+29 Sep 2017, 12:12:08,287 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd62852628d12282454cf" }, "NickName" : "linhhatinh", "Count" : 11, "Date" : "21-09-2017", "Time" : "06:06:03" }
+29 Sep 2017, 12:12:08,310 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd62852628d12282454d0" }, "NickName" : "testvnbai121", "Count" : 2, "Date" : "21-09-2017", "Time" : "11:27:32" }
+29 Sep 2017, 12:12:08,334 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd62852628d12282454d1" }, "NickName" : "testvnbai231", "Count" : 1, "Date" : "21-09-2017", "Time" : "08:07:11" }
+29 Sep 2017, 12:12:08,357 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd62852628d12282454d2" }, "NickName" : "tetsu888", "Count" : 6, "Date" : "21-09-2017", "Time" : "01:47:22" }
+29 Sep 2017, 12:12:08,380 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd62852628d12282454d3" }, "NickName" : "thacdu121", "Count" : 9, "Date" : "21-09-2017", "Time" : "10:28:26" }
+29 Sep 2017, 12:12:08,405 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd62852628d12282454d4" }, "NickName" : "thacdu201", "Count" : 4, "Date" : "21-09-2017", "Time" : "10:16:12" }
+29 Sep 2017, 12:12:08,429 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd62852628d12282454d5" }, "NickName" : "thacdu21", "Count" : 2, "Date" : "21-09-2017", "Time" : "02:59:53" }
+29 Sep 2017, 12:12:08,453 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd62852628d12282454d6" }, "NickName" : "thacdu231", "Count" : 1, "Date" : "21-09-2017", "Time" : "08:54:54" }
+29 Sep 2017, 12:12:08,476 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd62852628d12282454d7" }, "NickName" : "thacdu301", "Count" : 2, "Date" : "21-09-2017", "Time" : "08:48:31" }
+29 Sep 2017, 12:12:08,499 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd62852628d12282454d8" }, "NickName" : "thacdu431", "Count" : 1, "Date" : "21-09-2017", "Time" : "11:07:15" }
+29 Sep 2017, 12:12:08,525 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd62852628d12282454d9" }, "NickName" : "thacdu441", "Count" : 1, "Date" : "21-09-2017", "Time" : "11:08:01" }
+29 Sep 2017, 12:12:08,548 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd62852628d12282454da" }, "NickName" : "thacdu461", "Count" : 1, "Date" : "21-09-2017", "Time" : "03:29:38" }
+29 Sep 2017, 12:12:08,570 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd62852628d12282454db" }, "NickName" : "thacdu541", "Count" : 1, "Date" : "21-09-2017", "Time" : "10:28:21" }
+29 Sep 2017, 12:12:08,594 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd62852628d12282454dc" }, "NickName" : "thacdu61", "Count" : 1, "Date" : "21-09-2017", "Time" : "10:27:08" }
+29 Sep 2017, 12:12:08,618 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd62852628d12282454dd" }, "NickName" : "thacdu651", "Count" : 1, "Date" : "21-09-2017", "Time" : "10:27:12" }
+29 Sep 2017, 12:12:08,642 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd62852628d12282454de" }, "NickName" : "thacdu671", "Count" : 1, "Date" : "21-09-2017", "Time" : "03:41:15" }
+29 Sep 2017, 12:12:08,666 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd62852628d12282454df" }, "NickName" : "thacdu971", "Count" : 2, "Date" : "21-09-2017", "Time" : "04:03:33" }
+29 Sep 2017, 12:12:08,690 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd62852628d12282454e0" }, "NickName" : "thach125", "Count" : 4, "Date" : "21-09-2017", "Time" : "11:03:22" }
+29 Sep 2017, 12:12:08,713 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd62852628d12282454e1" }, "NickName" : "thanbai686868", "Count" : 1, "Date" : "21-09-2017", "Time" : "06:16:34" }
+29 Sep 2017, 12:12:08,735 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd62852628d12282454e2" }, "NickName" : "thinhnk", "Count" : 2, "Date" : "21-09-2017", "Time" : "07:45:49" }
+29 Sep 2017, 12:12:08,759 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd62852628d12282454e3" }, "NickName" : "tructxn1", "Count" : 6, "Date" : "21-09-2017", "Time" : "10:30:34" }
+29 Sep 2017, 12:12:08,782 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd62852628d12282454e4" }, "NickName" : "deptraivl", "Count" : 3, "Date" : "20-09-2017", "Time" : "09:57:17" }
+29 Sep 2017, 12:12:08,805 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd62852628d12282454e5" }, "NickName" : "gipvip", "Count" : 1, "Date" : "20-09-2017", "Time" : "06:22:53" }
+29 Sep 2017, 12:12:08,829 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd62852628d12282454e6" }, "NickName" : "linhhatinh", "Count" : 4, "Date" : "20-09-2017", "Time" : "05:01:55" }
+29 Sep 2017, 12:12:08,854 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd62852628d12282454e7" }, "NickName" : "nickdoctor1", "Count" : 11, "Date" : "20-09-2017", "Time" : "09:56:18" }
+29 Sep 2017, 12:12:08,878 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd62852628d12282454e8" }, "NickName" : "tescaichoinao801", "Count" : 2, "Date" : "20-09-2017", "Time" : "01:14:59" }
+29 Sep 2017, 12:12:08,901 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd62852628d12282454e9" }, "NickName" : "testcaichoinao4", "Count" : 1, "Date" : "20-09-2017", "Time" : "01:05:33" }
+29 Sep 2017, 12:12:08,924 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd62852628d12282454ea" }, "NickName" : "testvnbai11", "Count" : 1, "Date" : "20-09-2017", "Time" : "08:56:31" }
+29 Sep 2017, 12:12:08,948 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd62852628d12282454eb" }, "NickName" : "testvnbai151", "Count" : 1, "Date" : "20-09-2017", "Time" : "08:56:39" }
+29 Sep 2017, 12:12:08,973 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd62852628d12282454ec" }, "NickName" : "testvnbai221", "Count" : 1, "Date" : "20-09-2017", "Time" : "02:45:35" }
+29 Sep 2017, 12:12:08,997 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd62852628d12282454ed" }, "NickName" : "testvnbai241", "Count" : 1, "Date" : "20-09-2017", "Time" : "09:41:08" }
+29 Sep 2017, 12:12:09,021 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd62852628d12282454ee" }, "NickName" : "testvnbai251", "Count" : 1, "Date" : "20-09-2017", "Time" : "08:35:38" }
+29 Sep 2017, 12:12:09,046 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd62952628d12282454ef" }, "NickName" : "testvnbai261", "Count" : 1, "Date" : "20-09-2017", "Time" : "08:37:11" }
+29 Sep 2017, 12:12:09,071 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd62952628d12282454f0" }, "NickName" : "testvnbai31", "Count" : 1, "Date" : "20-09-2017", "Time" : "03:44:38" }
+29 Sep 2017, 12:12:09,093 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd62952628d12282454f1" }, "NickName" : "testvnbai341", "Count" : 2, "Date" : "20-09-2017", "Time" : "04:45:54" }
+29 Sep 2017, 12:12:09,117 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd62952628d12282454f2" }, "NickName" : "testvnbai541", "Count" : 1, "Date" : "20-09-2017", "Time" : "03:45:33" }
+29 Sep 2017, 12:12:09,140 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd62952628d12282454f3" }, "NickName" : "testvnbai61", "Count" : 2, "Date" : "20-09-2017", "Time" : "04:09:10" }
+29 Sep 2017, 12:12:09,163 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd62952628d12282454f4" }, "NickName" : "testvnbai881", "Count" : 1, "Date" : "20-09-2017", "Time" : "03:45:06" }
+29 Sep 2017, 12:12:09,189 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd62952628d12282454f5" }, "NickName" : "testvnbai991", "Count" : 1, "Date" : "20-09-2017", "Time" : "01:36:15" }
+29 Sep 2017, 12:12:09,211 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd62952628d12282454f6" }, "NickName" : "thacdu101", "Count" : 5, "Date" : "20-09-2017", "Time" : "11:00:21" }
+29 Sep 2017, 12:12:09,235 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd62952628d12282454f7" }, "NickName" : "thacdu11", "Count" : 5, "Date" : "20-09-2017", "Time" : "08:59:35" }
+29 Sep 2017, 12:12:09,259 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd62952628d12282454f8" }, "NickName" : "thacdu121", "Count" : 5, "Date" : "20-09-2017", "Time" : "09:31:04" }
+29 Sep 2017, 12:12:09,283 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd62952628d12282454f9" }, "NickName" : "thacdu131", "Count" : 15, "Date" : "20-09-2017", "Time" : "11:20:37" }
+29 Sep 2017, 12:12:09,308 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd62952628d12282454fa" }, "NickName" : "thacdu191", "Count" : 2, "Date" : "20-09-2017", "Time" : "08:40:35" }
+29 Sep 2017, 12:12:09,331 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd62952628d12282454fb" }, "NickName" : "thacdu201", "Count" : 5, "Date" : "20-09-2017", "Time" : "09:20:27" }
+29 Sep 2017, 12:12:09,354 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd62952628d12282454fc" }, "NickName" : "thacdu231", "Count" : 2, "Date" : "20-09-2017", "Time" : "08:17:52" }
+29 Sep 2017, 12:12:09,378 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd62952628d12282454fd" }, "NickName" : "thacdu241", "Count" : 1, "Date" : "20-09-2017", "Time" : "08:47:02" }
+29 Sep 2017, 12:12:09,404 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd62952628d12282454fe" }, "NickName" : "thacdu301", "Count" : 1, "Date" : "20-09-2017", "Time" : "11:21:52" }
+29 Sep 2017, 12:12:09,430 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd62952628d12282454ff" }, "NickName" : "thacdu321", "Count" : 5, "Date" : "20-09-2017", "Time" : "03:00:47" }
+29 Sep 2017, 12:12:09,455 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd62952628d1228245500" }, "NickName" : "thacdu331", "Count" : 1, "Date" : "20-09-2017", "Time" : "08:13:05" }
+29 Sep 2017, 12:12:09,478 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd62952628d1228245501" }, "NickName" : "thacdu341", "Count" : 1, "Date" : "20-09-2017", "Time" : "02:18:21" }
+29 Sep 2017, 12:12:09,501 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd62952628d1228245502" }, "NickName" : "thacdu401", "Count" : 4, "Date" : "20-09-2017", "Time" : "12:59:18" }
+29 Sep 2017, 12:12:09,525 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd62952628d1228245503" }, "NickName" : "thacdu451", "Count" : 4, "Date" : "20-09-2017", "Time" : "02:05:13" }
+29 Sep 2017, 12:12:09,550 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd62952628d1228245504" }, "NickName" : "thacdu51", "Count" : 1, "Date" : "20-09-2017", "Time" : "09:52:50" }
+29 Sep 2017, 12:12:09,574 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd62952628d1228245505" }, "NickName" : "thacdu521", "Count" : 1, "Date" : "20-09-2017", "Time" : "03:43:48" }
+29 Sep 2017, 12:12:09,599 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd62952628d1228245506" }, "NickName" : "thacdu531", "Count" : 1, "Date" : "20-09-2017", "Time" : "03:44:18" }
+29 Sep 2017, 12:12:09,624 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd62952628d1228245507" }, "NickName" : "thacdu541", "Count" : 1, "Date" : "20-09-2017", "Time" : "03:44:28" }
+29 Sep 2017, 12:12:09,647 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd62952628d1228245508" }, "NickName" : "thacdu551", "Count" : 1, "Date" : "20-09-2017", "Time" : "03:44:36" }
+29 Sep 2017, 12:12:09,670 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd62952628d1228245509" }, "NickName" : "thacdu561", "Count" : 2, "Date" : "20-09-2017", "Time" : "03:44:45" }
+29 Sep 2017, 12:12:09,694 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd62952628d122824550a" }, "NickName" : "thacdu571", "Count" : 1, "Date" : "20-09-2017", "Time" : "03:44:53" }
+29 Sep 2017, 12:12:09,719 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd62952628d122824550b" }, "NickName" : "thacdu581", "Count" : 1, "Date" : "20-09-2017", "Time" : "03:45:02" }
+29 Sep 2017, 12:12:09,743 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd62952628d122824550c" }, "NickName" : "thacdu591", "Count" : 1, "Date" : "20-09-2017", "Time" : "03:45:12" }
+29 Sep 2017, 12:12:09,767 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd62952628d122824550d" }, "NickName" : "thacdu601", "Count" : 1, "Date" : "20-09-2017", "Time" : "03:45:21" }
+29 Sep 2017, 12:12:09,791 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd62952628d122824550e" }, "NickName" : "thacdu61", "Count" : 1, "Date" : "20-09-2017", "Time" : "10:32:24" }
+29 Sep 2017, 12:12:09,814 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd62952628d122824550f" }, "NickName" : "thacdu621", "Count" : 1, "Date" : "20-09-2017", "Time" : "03:45:31" }
+29 Sep 2017, 12:12:09,837 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd62952628d1228245510" }, "NickName" : "thacdu631", "Count" : 1, "Date" : "20-09-2017", "Time" : "03:45:39" }
+29 Sep 2017, 12:12:09,861 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd62952628d1228245511" }, "NickName" : "thacdu691", "Count" : 4, "Date" : "20-09-2017", "Time" : "03:27:06" }
+29 Sep 2017, 12:12:09,885 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd62952628d1228245512" }, "NickName" : "thacdu71", "Count" : 3, "Date" : "20-09-2017", "Time" : "10:01:06" }
+29 Sep 2017, 12:12:09,909 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd62952628d1228245513" }, "NickName" : "thacdu721", "Count" : 1, "Date" : "20-09-2017", "Time" : "09:25:04" }
+29 Sep 2017, 12:12:09,932 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd62952628d1228245514" }, "NickName" : "thacdu731", "Count" : 1, "Date" : "20-09-2017", "Time" : "09:25:17" }
+29 Sep 2017, 12:12:09,955 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd62952628d1228245515" }, "NickName" : "thacdu741", "Count" : 1, "Date" : "20-09-2017", "Time" : "09:26:31" }
+29 Sep 2017, 12:12:09,978 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd62952628d1228245516" }, "NickName" : "thacdu751", "Count" : 1, "Date" : "20-09-2017", "Time" : "09:26:49" }
+29 Sep 2017, 12:12:10,001 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd62952628d1228245517" }, "NickName" : "thacdu781", "Count" : 4, "Date" : "20-09-2017", "Time" : "02:21:10" }
+29 Sep 2017, 12:12:10,025 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd62a52628d1228245518" }, "NickName" : "thacdu941", "Count" : 2, "Date" : "20-09-2017", "Time" : "01:23:20" }
+29 Sep 2017, 12:12:10,048 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd62a52628d1228245519" }, "NickName" : "thanbai686868", "Count" : 5, "Date" : "20-09-2017", "Time" : "10:56:27" }
+29 Sep 2017, 12:12:10,071 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd62a52628d122824551a" }, "NickName" : "tructxn1", "Count" : 7, "Date" : "20-09-2017", "Time" : "10:56:36" }
+29 Sep 2017, 12:12:10,096 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd62a52628d122824551b" }, "NickName" : "testvnbai101", "Count" : 2, "Date" : "19-09-2017", "Time" : "09:12:51" }
+29 Sep 2017, 12:12:10,120 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd62a52628d122824551c" }, "NickName" : "testvnbai11", "Count" : 6, "Date" : "19-09-2017", "Time" : "10:39:44" }
+29 Sep 2017, 12:12:10,145 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd62a52628d122824551d" }, "NickName" : "testvnbai121", "Count" : 1, "Date" : "19-09-2017", "Time" : "09:57:45" }
+29 Sep 2017, 12:12:10,169 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd62a52628d122824551e" }, "NickName" : "testvnbai141", "Count" : 1, "Date" : "19-09-2017", "Time" : "10:53:54" }
+29 Sep 2017, 12:12:10,192 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd62a52628d122824551f" }, "NickName" : "testvnbai151", "Count" : 1, "Date" : "19-09-2017", "Time" : "06:26:00" }
+29 Sep 2017, 12:12:10,216 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd62a52628d1228245520" }, "NickName" : "testvnbai181", "Count" : 1, "Date" : "19-09-2017", "Time" : "05:52:11" }
+29 Sep 2017, 12:12:10,240 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd62a52628d1228245521" }, "NickName" : "testvnbai201", "Count" : 3, "Date" : "19-09-2017", "Time" : "06:03:01" }
+29 Sep 2017, 12:12:10,262 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd62a52628d1228245522" }, "NickName" : "testvnbai21", "Count" : 6, "Date" : "19-09-2017", "Time" : "10:43:31" }
+29 Sep 2017, 12:12:10,286 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd62a52628d1228245523" }, "NickName" : "testvnbai221", "Count" : 2, "Date" : "19-09-2017", "Time" : "05:51:48" }
+29 Sep 2017, 12:12:10,310 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd62a52628d1228245524" }, "NickName" : "testvnbai31", "Count" : 1, "Date" : "19-09-2017", "Time" : "10:19:51" }
+29 Sep 2017, 12:12:10,333 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd62a52628d1228245525" }, "NickName" : "testvnbai331", "Count" : 1, "Date" : "19-09-2017", "Time" : "05:56:01" }
+29 Sep 2017, 12:12:10,357 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd62a52628d1228245526" }, "NickName" : "testvnbai351", "Count" : 1, "Date" : "19-09-2017", "Time" : "09:52:05" }
+29 Sep 2017, 12:12:10,382 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd62a52628d1228245527" }, "NickName" : "testvnbai771", "Count" : 2, "Date" : "19-09-2017", "Time" : "06:05:59" }
+29 Sep 2017, 12:12:10,406 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd62a52628d1228245528" }, "NickName" : "thacdu101", "Count" : 1, "Date" : "19-09-2017", "Time" : "09:35:38" }
+29 Sep 2017, 12:12:10,430 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd62a52628d1228245529" }, "NickName" : "thacdu11", "Count" : 7, "Date" : "19-09-2017", "Time" : "11:22:46" }
+29 Sep 2017, 12:12:10,453 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd62a52628d122824552a" }, "NickName" : "thacdu121", "Count" : 2, "Date" : "19-09-2017", "Time" : "09:10:43" }
+29 Sep 2017, 12:12:10,477 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd62a52628d122824552b" }, "NickName" : "thacdu131", "Count" : 4, "Date" : "19-09-2017", "Time" : "11:11:15" }
+29 Sep 2017, 12:12:10,500 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd62a52628d122824552c" }, "NickName" : "thacdu141", "Count" : 1, "Date" : "19-09-2017", "Time" : "09:25:11" }
+29 Sep 2017, 12:12:10,531 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd62a52628d122824552d" }, "NickName" : "thacdu201", "Count" : 5, "Date" : "19-09-2017", "Time" : "10:22:28" }
+29 Sep 2017, 12:12:10,556 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd62a52628d122824552e" }, "NickName" : "thacdu21", "Count" : 1, "Date" : "19-09-2017", "Time" : "08:30:02" }
+29 Sep 2017, 12:12:10,579 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd62a52628d122824552f" }, "NickName" : "thacdu301", "Count" : 1, "Date" : "19-09-2017", "Time" : "10:28:12" }
+29 Sep 2017, 12:12:10,603 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd62a52628d1228245530" }, "NickName" : "thacdu331", "Count" : 1, "Date" : "19-09-2017", "Time" : "09:15:44" }
+29 Sep 2017, 12:12:10,626 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd62a52628d1228245531" }, "NickName" : "thacdu381", "Count" : 1, "Date" : "19-09-2017", "Time" : "09:54:54" }
+29 Sep 2017, 12:12:10,650 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd62a52628d1228245532" }, "NickName" : "thacdu391", "Count" : 1, "Date" : "19-09-2017", "Time" : "01:32:03" }
+29 Sep 2017, 12:12:10,674 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd62a52628d1228245533" }, "NickName" : "thacdu421", "Count" : 1, "Date" : "19-09-2017", "Time" : "01:20:38" }
+29 Sep 2017, 12:12:10,698 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd62a52628d1228245534" }, "NickName" : "thacdu431", "Count" : 1, "Date" : "19-09-2017", "Time" : "02:20:35" }
+29 Sep 2017, 12:12:10,721 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd62a52628d1228245535" }, "NickName" : "thacdu451", "Count" : 1, "Date" : "19-09-2017", "Time" : "10:56:34" }
+29 Sep 2017, 12:12:10,745 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd62a52628d1228245536" }, "NickName" : "thacdu491", "Count" : 1, "Date" : "19-09-2017", "Time" : "12:30:42" }
+29 Sep 2017, 12:12:10,769 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd62a52628d1228245537" }, "NickName" : "thacdu541", "Count" : 1, "Date" : "19-09-2017", "Time" : "01:24:16" }
+29 Sep 2017, 12:12:10,791 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd62a52628d1228245538" }, "NickName" : "thacdu591", "Count" : 2, "Date" : "19-09-2017", "Time" : "01:16:22" }
+29 Sep 2017, 12:12:10,814 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd62a52628d1228245539" }, "NickName" : "thacdu651", "Count" : 2, "Date" : "19-09-2017", "Time" : "12:26:28" }
+29 Sep 2017, 12:12:10,837 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd62a52628d122824553a" }, "NickName" : "thacdu661", "Count" : 1, "Date" : "19-09-2017", "Time" : "12:26:34" }
+29 Sep 2017, 12:12:10,861 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd62a52628d122824553b" }, "NickName" : "thacdu821", "Count" : 1, "Date" : "19-09-2017", "Time" : "10:24:29" }
+29 Sep 2017, 12:12:10,884 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd62a52628d122824553c" }, "NickName" : "thacdu841", "Count" : 2, "Date" : "19-09-2017", "Time" : "10:26:21" }
+29 Sep 2017, 12:12:10,906 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd62a52628d122824553d" }, "NickName" : "thacdu851", "Count" : 1, "Date" : "19-09-2017", "Time" : "12:20:52" }
+29 Sep 2017, 12:12:10,930 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd62a52628d122824553e" }, "NickName" : "thacdu921", "Count" : 1, "Date" : "19-09-2017", "Time" : "10:44:45" }
+29 Sep 2017, 12:12:10,952 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd62a52628d122824553f" }, "NickName" : "thacdu931", "Count" : 3, "Date" : "19-09-2017", "Time" : "10:45:21" }
+29 Sep 2017, 12:12:10,976 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd62a52628d1228245540" }, "NickName" : "thacdu941", "Count" : 1, "Date" : "19-09-2017", "Time" : "10:46:21" }
+29 Sep 2017, 12:12:10,999 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd62a52628d1228245541" }, "NickName" : "thacdu951", "Count" : 1, "Date" : "19-09-2017", "Time" : "10:46:30" }
+29 Sep 2017, 12:12:11,022 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd62a52628d1228245542" }, "NickName" : "tructxn1", "Count" : 5, "Date" : "19-09-2017", "Time" : "10:11:46" }
+29 Sep 2017, 12:12:11,046 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd62b52628d1228245543" }, "NickName" : "thacdu101", "Count" : 7, "Date" : "18-09-2017", "Time" : "11:17:38" }
+29 Sep 2017, 12:12:11,070 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd62b52628d1228245544" }, "NickName" : "thacdu11", "Count" : 11, "Date" : "18-09-2017", "Time" : "09:35:15" }
+29 Sep 2017, 12:12:11,094 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd62b52628d1228245545" }, "NickName" : "thacdu121", "Count" : 5, "Date" : "18-09-2017", "Time" : "09:54:25" }
+29 Sep 2017, 12:12:11,117 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd62b52628d1228245546" }, "NickName" : "thacdu131", "Count" : 4, "Date" : "18-09-2017", "Time" : "10:15:49" }
+29 Sep 2017, 12:12:11,142 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd62b52628d1228245547" }, "NickName" : "thacdu201", "Count" : 2, "Date" : "18-09-2017", "Time" : "09:07:15" }
+29 Sep 2017, 12:12:11,167 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd62b52628d1228245548" }, "NickName" : "thacdu21", "Count" : 4, "Date" : "18-09-2017", "Time" : "08:18:01" }
+29 Sep 2017, 12:12:11,193 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd62b52628d1228245549" }, "NickName" : "thacdu221", "Count" : 1, "Date" : "18-09-2017", "Time" : "11:15:34" }
+29 Sep 2017, 12:12:11,220 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd62b52628d122824554a" }, "NickName" : "thacdu231", "Count" : 1, "Date" : "18-09-2017", "Time" : "11:16:15" }
+29 Sep 2017, 12:12:11,243 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd62b52628d122824554b" }, "NickName" : "thacdu261", "Count" : 1, "Date" : "18-09-2017", "Time" : "09:51:00" }
+29 Sep 2017, 12:12:11,267 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd62b52628d122824554c" }, "NickName" : "thacdu281", "Count" : 1, "Date" : "18-09-2017", "Time" : "11:16:56" }
+29 Sep 2017, 12:12:11,290 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd62b52628d122824554d" }, "NickName" : "thacdu31", "Count" : 1, "Date" : "18-09-2017", "Time" : "08:32:58" }
+29 Sep 2017, 12:12:11,314 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd62b52628d122824554e" }, "NickName" : "thacdu321", "Count" : 1, "Date" : "18-09-2017", "Time" : "10:09:23" }
+29 Sep 2017, 12:12:11,338 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd62b52628d122824554f" }, "NickName" : "thacdu331", "Count" : 3, "Date" : "18-09-2017", "Time" : "09:40:24" }
+29 Sep 2017, 12:12:11,362 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd62b52628d1228245550" }, "NickName" : "thacdu341", "Count" : 2, "Date" : "18-09-2017", "Time" : "11:02:47" }
+29 Sep 2017, 12:12:11,385 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd62b52628d1228245551" }, "NickName" : "thacdu431", "Count" : 3, "Date" : "18-09-2017", "Time" : "09:35:28" }
+29 Sep 2017, 12:12:11,407 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd62b52628d1228245552" }, "NickName" : "thacdu561", "Count" : 1, "Date" : "18-09-2017", "Time" : "02:56:01" }
+29 Sep 2017, 12:12:11,432 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd62b52628d1228245553" }, "NickName" : "thacdu61", "Count" : 2, "Date" : "18-09-2017", "Time" : "02:37:41" }
+29 Sep 2017, 12:12:11,459 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd62b52628d1228245554" }, "NickName" : "thacdu671", "Count" : 1, "Date" : "18-09-2017", "Time" : "09:42:21" }
+29 Sep 2017, 12:12:11,483 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd62b52628d1228245555" }, "NickName" : "thacdu681", "Count" : 1, "Date" : "18-09-2017", "Time" : "09:54:13" }
+29 Sep 2017, 12:12:11,506 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd62b52628d1228245556" }, "NickName" : "thacdu741", "Count" : 1, "Date" : "18-09-2017", "Time" : "10:13:42" }
+29 Sep 2017, 12:12:11,531 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd62b52628d1228245557" }, "NickName" : "thacdu791", "Count" : 1, "Date" : "18-09-2017", "Time" : "10:00:21" }
+29 Sep 2017, 12:12:11,554 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd62b52628d1228245558" }, "NickName" : "thacdu81", "Count" : 1, "Date" : "18-09-2017", "Time" : "11:07:28" }
+29 Sep 2017, 12:12:11,579 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd62b52628d1228245559" }, "NickName" : "thacdu821", "Count" : 4, "Date" : "18-09-2017", "Time" : "07:43:38" }
+29 Sep 2017, 12:12:11,602 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd62b52628d122824555a" }, "NickName" : "thacdu831", "Count" : 2, "Date" : "18-09-2017", "Time" : "07:15:26" }
+29 Sep 2017, 12:12:11,625 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd62b52628d122824555b" }, "NickName" : "thacdu841", "Count" : 1, "Date" : "18-09-2017", "Time" : "07:56:23" }
+29 Sep 2017, 12:12:11,649 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd62b52628d122824555c" }, "NickName" : "thacdu101", "Count" : 5, "Date" : "17-09-2017", "Time" : "10:22:24" }
+29 Sep 2017, 12:12:11,673 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd62b52628d122824555d" }, "NickName" : "thacdu11", "Count" : 10, "Date" : "17-09-2017", "Time" : "05:51:26" }
+29 Sep 2017, 12:12:11,698 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd62b52628d122824555e" }, "NickName" : "thacdu121", "Count" : 3, "Date" : "17-09-2017", "Time" : "06:52:16" }
+29 Sep 2017, 12:12:11,720 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd62b52628d122824555f" }, "NickName" : "thacdu131", "Count" : 11, "Date" : "17-09-2017", "Time" : "11:02:46" }
+29 Sep 2017, 12:12:11,745 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd62b52628d1228245560" }, "NickName" : "thacdu141", "Count" : 5, "Date" : "17-09-2017", "Time" : "04:43:17" }
+29 Sep 2017, 12:12:11,769 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd62b52628d1228245561" }, "NickName" : "thacdu201", "Count" : 1, "Date" : "17-09-2017", "Time" : "06:18:32" }
+29 Sep 2017, 12:12:11,800 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd62b52628d1228245562" }, "NickName" : "thacdu21", "Count" : 1, "Date" : "17-09-2017", "Time" : "11:59:12" }
+29 Sep 2017, 12:12:11,824 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd62b52628d1228245563" }, "NickName" : "thacdu301", "Count" : 1, "Date" : "17-09-2017", "Time" : "10:49:16" }
+29 Sep 2017, 12:12:11,847 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd62b52628d1228245564" }, "NickName" : "thacdu31", "Count" : 1, "Date" : "17-09-2017", "Time" : "12:03:42" }
+29 Sep 2017, 12:12:11,870 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd62b52628d1228245565" }, "NickName" : "thacdu101", "Count" : 4, "Date" : "16-09-2017", "Time" : "10:30:00" }
+29 Sep 2017, 12:12:11,894 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd62b52628d1228245566" }, "NickName" : "thacdu11", "Count" : 4, "Date" : "16-09-2017", "Time" : "08:24:46" }
+29 Sep 2017, 12:12:11,918 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd62b52628d1228245567" }, "NickName" : "thacdu121", "Count" : 2, "Date" : "16-09-2017", "Time" : "10:12:56" }
+29 Sep 2017, 12:12:11,942 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd62b52628d1228245568" }, "NickName" : "thacdu131", "Count" : 2, "Date" : "16-09-2017", "Time" : "05:14:12" }
+29 Sep 2017, 12:12:11,965 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd62b52628d1228245569" }, "NickName" : "thacdu141", "Count" : 2, "Date" : "16-09-2017", "Time" : "09:20:31" }
+29 Sep 2017, 12:12:11,988 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd62b52628d122824556a" }, "NickName" : "thacdu151", "Count" : 1, "Date" : "16-09-2017", "Time" : "03:02:41" }
+29 Sep 2017, 12:12:12,011 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd62b52628d122824556b" }, "NickName" : "thacdu191", "Count" : 1, "Date" : "16-09-2017", "Time" : "01:57:20" }
+29 Sep 2017, 12:12:12,034 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd62c52628d122824556c" }, "NickName" : "thacdu21", "Count" : 2, "Date" : "16-09-2017", "Time" : "08:30:40" }
+29 Sep 2017, 12:12:12,057 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd62c52628d122824556d" }, "NickName" : "thacdu221", "Count" : 1, "Date" : "16-09-2017", "Time" : "07:43:11" }
+29 Sep 2017, 12:12:12,080 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd62c52628d122824556e" }, "NickName" : "thacdu31", "Count" : 3, "Date" : "16-09-2017", "Time" : "08:59:55" }
+29 Sep 2017, 12:12:12,104 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd62c52628d122824556f" }, "NickName" : "thacdu401", "Count" : 1, "Date" : "16-09-2017", "Time" : "06:19:03" }
+29 Sep 2017, 12:12:12,129 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd62c52628d1228245570" }, "NickName" : "thacdu41", "Count" : 1, "Date" : "16-09-2017", "Time" : "01:04:12" }
+29 Sep 2017, 12:12:12,152 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd62c52628d1228245571" }, "NickName" : "thacdu881", "Count" : 1, "Date" : "16-09-2017", "Time" : "02:10:51" }
+29 Sep 2017, 12:12:12,175 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd62c52628d1228245572" }, "NickName" : "thacdu101", "Count" : 2, "Date" : "15-09-2017", "Time" : "07:28:14" }
+29 Sep 2017, 12:12:12,198 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd62c52628d1228245573" }, "NickName" : "thacdu11", "Count" : 1, "Date" : "15-09-2017", "Time" : "04:31:39" }
+29 Sep 2017, 12:12:12,221 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd62c52628d1228245574" }, "NickName" : "thacdu131", "Count" : 1, "Date" : "15-09-2017", "Time" : "09:02:30" }
+29 Sep 2017, 12:12:12,244 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd62c52628d1228245575" }, "NickName" : "thacdu181", "Count" : 1, "Date" : "15-09-2017", "Time" : "11:34:15" }
+29 Sep 2017, 12:12:12,268 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd62c52628d1228245576" }, "NickName" : "thacdu21", "Count" : 1, "Date" : "15-09-2017", "Time" : "07:28:08" }
+29 Sep 2017, 12:12:12,291 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd62c52628d1228245577" }, "NickName" : "thacdu451", "Count" : 3, "Date" : "15-09-2017", "Time" : "06:38:05" }
+29 Sep 2017, 12:12:12,314 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd62c52628d1228245578" }, "NickName" : "tructxn1", "Count" : 16, "Date" : "15-09-2017", "Time" : "06:28:21" }
+29 Sep 2017, 12:12:12,336 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd62c52628d1228245579" }, "NickName" : "thacdu121", "Count" : 1, "Date" : "14-09-2017", "Time" : "10:22:40" }
+29 Sep 2017, 12:12:12,360 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd62c52628d122824557a" }, "NickName" : "thacdu11", "Count" : 28, "Date" : "06-09-2017", "Time" : "03:00:50" }
+29 Sep 2017, 12:12:12,388 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd62c52628d122824557b" }, "NickName" : "thacdu121", "Count" : 2, "Date" : "06-09-2017", "Time" : "03:26:07" }
+29 Sep 2017, 12:12:12,412 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd62c52628d122824557c" }, "NickName" : "thacdu21", "Count" : 3, "Date" : "06-09-2017", "Time" : "03:19:48" }
+29 Sep 2017, 12:12:12,436 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd62c52628d122824557d" }, "NickName" : "thacdu11", "Count" : 11, "Date" : "05-09-2017", "Time" : "10:55:56" }
+29 Sep 2017, 12:12:12,460 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd62c52628d122824557e" }, "NickName" : "thacdu21", "Count" : 8, "Date" : "05-09-2017", "Time" : "12:15:05" }
+29 Sep 2017, 12:12:12,482 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd62c52628d122824557f" }, "NickName" : "tructxn1", "Count" : 3, "Date" : "05-09-2017", "Time" : "04:35:15" }
+29 Sep 2017, 12:12:12,505 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd62c52628d1228245580" }, "NickName" : "thacdu01", "Count" : 2, "Date" : "04-09-2017", "Time" : "04:31:57" }
+29 Sep 2017, 12:12:12,529 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd62c52628d1228245581" }, "NickName" : "thacdu11", "Count" : 14, "Date" : "04-09-2017", "Time" : "08:10:57" }
+29 Sep 2017, 12:12:12,552 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd62c52628d1228245582" }, "NickName" : "thacdu21", "Count" : 4, "Date" : "04-09-2017", "Time" : "08:02:35" }
+29 Sep 2017, 12:12:12,576 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd62c52628d1228245583" }, "NickName" : "thacdu31", "Count" : 2, "Date" : "04-09-2017", "Time" : "11:20:40" }
+29 Sep 2017, 12:12:12,599 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd62c52628d1228245584" }, "NickName" : "thacdu41", "Count" : 1, "Date" : "04-09-2017", "Time" : "11:13:29" }
+29 Sep 2017, 12:12:12,622 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd62c52628d1228245585" }, "NickName" : "thacdu51", "Count" : 4, "Date" : "04-09-2017", "Time" : "02:39:17" }
+29 Sep 2017, 12:12:12,645 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd62c52628d1228245586" }, "NickName" : "thacdu61", "Count" : 1, "Date" : "04-09-2017", "Time" : "02:57:54" }
+29 Sep 2017, 12:12:12,668 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd62c52628d1228245587" }, "NickName" : "thacdu991", "Count" : 1, "Date" : "04-09-2017", "Time" : "09:22:08" }
+29 Sep 2017, 12:12:12,692 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd62c52628d1228245588" }, "NickName" : "thacdu01", "Count" : 21, "Date" : "03-09-2017", "Time" : "02:57:58" }
+29 Sep 2017, 12:12:12,715 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd62c52628d1228245589" }, "NickName" : "thacdu11", "Count" : 35, "Date" : "03-09-2017", "Time" : "01:40:20" }
+29 Sep 2017, 12:12:12,738 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd62c52628d122824558a" }, "NickName" : "thacdu31", "Count" : 2, "Date" : "03-09-2017", "Time" : "12:56:45" }
+29 Sep 2017, 12:12:12,762 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd62c52628d122824558b" }, "NickName" : "thacdu991", "Count" : 1, "Date" : "03-09-2017", "Time" : "12:27:53" }
+29 Sep 2017, 12:12:12,785 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd62c52628d122824558c" }, "NickName" : "thinhnk", "Count" : 26, "Date" : "03-09-2017", "Time" : "02:46:18" }
+29 Sep 2017, 12:12:12,808 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd62c52628d122824558d" }, "NickName" : "tructxn1", "Count" : 8, "Date" : "03-09-2017", "Time" : "02:53:45" }
+29 Sep 2017, 12:12:12,833 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd62c52628d122824558e" }, "NickName" : "thinhnk", "Count" : 1, "Date" : "02-09-2017", "Time" : "07:05:47" }
+29 Sep 2017, 12:12:12,857 Log to UserLoginNumbers : { "_id" : { "$oid" : "59cdd62c52628d122824558f" }, "NickName" : "tructxn1", "Count" : 4, "Date" : "02-09-2017", "Time" : "07:50:54" }
