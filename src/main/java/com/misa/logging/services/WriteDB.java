@@ -14,6 +14,7 @@ public class WriteDB {
 			doc.append("NickName", userAcc.getNickName());
 			doc.append("Count", userAcc.getCount());
 			doc.append("Date", userAcc.getLoginDate());
+			doc.append("Time", userAcc.getLoginHour());
 			
 			MongoPool.log("UserLoginNumbers", doc);
 		}
