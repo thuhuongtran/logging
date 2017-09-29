@@ -7,7 +7,14 @@ public class UserAccess {
 	private String nickName;
 	private int count;
 	private String loginDate;
+	private String loginHour;
 	
+	public String getLoginHour() {
+		return loginHour;
+	}
+	public void setLoginHour(String loginHour) {
+		this.loginHour = loginHour;
+	}
 	public int getCount() {
 		return count;
 	}
